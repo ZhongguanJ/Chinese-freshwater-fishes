@@ -1,1592 +1,1592 @@
-species,iucn_level
-sp1,NT
-sp2,VU
-sp3,LC
-sp4,VU
-sp5,EN 
-sp6,CR 
-sp7,EN
-sp8,CR
-sp9,CR 
-sp10,CR
-sp11,CR
-sp12,EN
-sp13,EN
-sp14,NT
-sp15,NT
-sp16,CR
-sp17,LC
-sp18,LC
-sp19,LC
-sp20,DD
-sp21,DD
-sp22,NT
-sp23,VU
-sp24,CR
-sp25,EN
-sp26,DD
-sp27,LC
-sp28,DD
-sp29,NT
-sp30,NT
-sp31,DD
-sp32,LC
-sp33,LC
-sp34,NT
-sp35,DD
-sp36,NT
-sp37,NT
-sp38,LC
-sp39,LC
-sp40,EN
-sp41,NT
-sp42,DD
-sp43,DD
-sp44,LC
-sp45,LC
-sp46,LC
-sp47,LC
-sp48,LC
-sp49,NT
-sp50,LC
-sp51,LC
-sp52,DD
-sp53,LC
-sp54,LC
-sp55,LC
-sp56,CR
-sp57,LC
-sp58,LC
-sp59,DD
-sp60,LC
-sp61,DD
-sp62,LC
-sp63,LC
-sp64,LC
-sp65,EN
-sp66,LC
-sp67,DD
-sp68,CR
-sp69,DD
-sp70,VU
-sp71,LC
-sp72,NT
-sp73,LC
-sp74,LC
-sp75,CR
-sp76,LC
-sp77,VU
-sp78,LC
-sp79,CR
-sp80,LC
-sp81,CR
-sp82,DD
-sp83,NT
-sp84,NT
-sp85,LC
-sp86,LC
-sp87,DD
-sp88,LC
-sp89,LC
-sp90,LC
-sp91,LC
-sp92,LC
-sp93,LC
-sp94,LC
-sp95,LC
-sp96,VU
-sp97,VU
-sp98,EN
-sp99,CR
-sp100,VU
-sp101,DD
-sp102,DD
-sp103,VU
-sp104,EN
-sp105,EN
-sp106,EX
-sp107,EN
-sp108,DD
-sp109,EN
-sp110,CR
-sp111,CR
-sp112,NT
-sp113,EN
-sp114,NT
-sp115,CR
-sp116,LC
-sp117,LC
-sp118,LC
-sp119,NT
-sp120,LC
-sp121,LC
-sp122,LC
-sp123,LC
-sp124,LC
-sp125,NT
-sp126,LC
-sp127,DD
-sp128,EN
-sp129,VU
-sp130,LC
-sp131,LC
-sp132,LC
-sp133,LC
-sp134,LC
-sp135,LC
-sp136,DD
-sp137,VU
-sp138,LC
-sp139,DD
-sp140,VU
-sp141,LC
-sp142,LC
-sp143,VU
-sp144,NT
-sp145,DD
-sp146,VU
-sp147,DD
-sp148,LC
-sp149,NT
-sp150,EN
-sp151,LC
-sp152,LC
-sp153,LC
-sp154,DD
-sp155,LC
-sp156,LC
-sp157,DD
-sp158,DD
-sp159,LC
-sp160,DD
-sp161,NT
-sp162,DD
-sp163,LC
-sp164,LC
-sp165,NT
-sp166,CR
-sp167,LC
-sp168,LC
-sp169,LC
-sp170,VU
-sp171,VU
-sp172,LC
-sp173,VU
-sp174,DD
-sp175,LC
-sp176,CR
-sp177,EN
-sp178,LC
-sp179,LC
-sp180,DD
-sp181,LC
-sp182,LC
-sp183,LC
-sp184,VU
-sp185,DD
-sp186,LC
-sp187,CR
-sp188,LC
-sp189,LC
-sp190,LC
-sp191,LC
-sp192,LC
-sp193,LC
-sp194,EN
-sp195,LC
-sp196,LC
-sp197,DD
-sp198,DD
-sp199,LC
-sp200,NT
-sp201,DD
-sp202,LC
-sp203,DD
-sp204,LC
-sp205,DD
-sp206,LC
-sp207,LC
-sp208,DD
-sp209,LC
-sp210,LC
-sp211,LC
-sp212,NT
-sp213,LC
-sp214,DD
-sp215,DD
-sp216,LC
-sp217,LC
-sp218,LC
-sp219,EN
-sp220,LC
-sp221,VU
-sp222,CR
-sp223,DD
-sp224,CR
-sp225,DD
-sp226,DD
-sp227,LC
-sp228,DD
-sp229,LC
-sp230,LC
-sp231,DD
-sp232,DD
-sp233,DD
-sp234,LC
-sp235,DD
-sp236,LC
-sp237,EN
-sp238,LC
-sp239,LC
-sp240,DD
-sp241,LC
-sp242,LC
-sp243,LC
-sp244,LC
-sp245,LC
-sp246,LC
-sp247,LC
-sp248,LC
-sp249,LC
-sp250,LC
-sp251,LC
-sp252,LC
-sp253,LC
-sp254,DD
-sp255,LC
-sp256,LC
-sp257,DD
-sp258,DD
-sp259,DD
-sp260,DD
-sp261,DD
-sp262,DD
-sp263,DD
-sp264,DD
-sp265,DD
-sp266,DD
-sp267,DD
-sp268,DD
-sp269,DD
-sp270,DD
-sp271,DD
-sp272,DD
-sp273,DD
-sp274,DD
-sp275,DD
-sp276,VU
-sp277,DD
-sp278,LC
-sp279,LC
-sp280,DD
-sp281,LC
-sp282,DD
-sp283,DD
-sp284,DD
-sp285,LC
-sp286,LC
-sp287,VU
-sp288,LC
-sp289,LC
-sp290,LC
-sp291,LC
-sp292,DD
-sp293,NT
-sp294,LC
-sp295,EN
-sp296,DD
-sp297,DD
-sp298,LC
-sp299,LC
-sp300,LC
-sp301,NT
-sp302,LC
-sp303,LC
-sp304,LC
-sp305,LC
-sp306,LC
-sp307,LC
-sp308,LC
-sp309,LC
-sp310,DD
-sp311,LC
-sp312,LC
-sp313,LC
-sp314,LC
-sp315,LC
-sp316,DD
-sp317,DD
-sp318,LC
-sp319,LC
-sp320,DD
-sp321,CR
-sp322,DD
-sp323,CR
-sp324,DD
-sp325,LC
-sp326,EN
-sp327,LC
-sp328,LC
-sp329,LC
-sp330,LC
-sp331,VU
-sp332,LC
-sp333,DD
-sp334,DD
-sp335,DD
-sp336,DD
-sp337,VU
-sp338,DD
-sp339,NT
-sp340,NT
-sp341,DD
-sp342,DD
-sp343,DD
-sp344,VU
-sp345,DD
-sp346,LC
-sp347,LC
-sp348,LC
-sp349,LC
-sp350,LC
-sp351,LC
-sp352,DD
-sp353,CR
-sp354,EN
-sp355,CR
-sp356,CR
-sp357,CR
-sp358,VU
-sp359,EN
-sp360,CR
-sp361,CR
-sp362,LC
-sp363,CR
-sp364,CR
-sp365,LC
-sp366,EX
-sp367,CR
-sp368,EN 
-sp369,VU
-sp370,LC
-sp371,DD
-sp372,LC
-sp373,LC
-sp374,VU
-sp375,LC
-sp376,LC
-sp377,VU
-sp378,NT
-sp379,LC
-sp380,DD
-sp381,LC
-sp382,LC
-sp383,LC
-sp384,LC
-sp385,LC
-sp386,LC
-sp387,DD
-sp388,NT
-sp389,EN
-sp390,DD
-sp391,NT
-sp392,DD
-sp393,VU
-sp394,NT
-sp395,EN
-sp396,EN
-sp397,NT
-sp398,LC
-sp399,VU
-sp400,EN
-sp401,EN
-sp402,NT
-sp403,LC
-sp404,NT
-sp405,VU
-sp406,LC
-sp407,NT
-sp408,NT
-sp409,EN
-sp410,NT
-sp411,NT
-sp412,EN
-sp413,CR
-sp414,DD
-sp415,LC
-sp416,LC
-sp417,LC
-sp418,NT
-sp419,VU
-sp420,VU
-sp421,DD
-sp422,NT
-sp423,VU
-sp424,NT
-sp425,DD
-sp426,VU
-sp427,VU
-sp428,EN
-sp429,VU
-sp430,VU
-sp431,DD
-sp432,LC
-sp433,NT
-sp434,CR
-sp435,CR
-sp436,CR
-sp437,VU
-sp438,LC
-sp439,EN
-sp440,DD
-sp441,LC
-sp442,VU
-sp443,DD
-sp444,NT
-sp445,LC
-sp446,LC
-sp447,LC
-sp448,LC
-sp449,NT
-sp450,NT
-sp451,LC
-sp452,NT
-sp453,NT
-sp454,NT
-sp455,VU
-sp456,LC
-sp457,VU
-sp458,VU
-sp459,VU
-sp460,NT
-sp461,EN
-sp462,DD
-sp463,VU
-sp464,DD
-sp465,VU
-sp466,DD
-sp467,DD
-sp468,VU
-sp469,VU
-sp470,DD
-sp471,VU
-sp472,NT
-sp473,DD
-sp474,DD
-sp475,VU
-sp476,DD
-sp477,DD
-sp478,CR
-sp479,DD
-sp480,DD
-sp481,LC
-sp482,VU
-sp483,DD
-sp484,DD
-sp485,DD
-sp486,VU
-sp487,DD
-sp488,DD
-sp489,DD
-sp490,VU
-sp491,LC
-sp492,DD
-sp493,NT
-sp494,EN
-sp495,DD
-sp496,VU
-sp497,LC
-sp498,VU
-sp499,DD
-sp500,DD
-sp501,VU
-sp502,VU
-sp503,LC
-sp504,LC
-sp505,VU
-sp506,VU
-sp507,NT
-sp508,VU
-sp509,LC
-sp510,LC
-sp511,NT
-sp512,VU
-sp513,DD
-sp514,DD
-sp515,EN
-sp516,VU
-sp517,VU
-sp518,VU
-sp519,DD
-sp520,DD
-sp521,DD
-sp522,DD
-sp523,VU
-sp524,VU
-sp525,EN
-sp526,DD
-sp527,DD
-sp528,VU
-sp529,VU
-sp530,VU
-sp531,CR
-sp532,LC
-sp533,VU
-sp534,LC
-sp535,DD
-sp536,LC
-sp537,EN
-sp538,DD
-sp539,LC
-sp540,DD
-sp541,LC
-sp542,DD
-sp543,DD
-sp544,DD
-sp545,DD
-sp546,DD
-sp547,VU
-sp548,NT
-sp549,NT
-sp550,NT
-sp551,NT
-sp552,CR
-sp553,CR
-sp554,NT
-sp555,VU
-sp556,EN
-sp557,VU
-sp558,CR
-sp559,LC
-sp560,LC
-sp561,DD
-sp562,DD
-sp563,LC
-sp564,LC
-sp565,NT
-sp566,NT
-sp567,LC
-sp568,DD
-sp569,DD
-sp570,NT
-sp571,CR
-sp572,DD
-sp573,DD
-sp574,EN
-sp575,DD
-sp576,DD
-sp577,DD
-sp578,DD
-sp579,NT
-sp580,DD
-sp581,NT
-sp582,NT
-sp583,NT
-sp584,CR
-sp585,NT
-sp586,DD
-sp587,NT
-sp588,DD
-sp589,LC
-sp590,LC
-sp591,DD
-sp592,NT
-sp593,DD
-sp594,NT
-sp595,NT
-sp596,DD
-sp597,DD
-sp598,LC
-sp599,DD
-sp600,NT
-sp601,LC
-sp602,LC
-sp603,NT
-sp604,LC
-sp605,DD
-sp606,LC
-sp607,DD
-sp608,DD
-sp609,NT
-sp610,DD
-sp611,DD
-sp612,DD
-sp613,NT
-sp614,NT
-sp615,DD
-sp616,NT
-sp617,LC
-sp618,DD
-sp619,NT
-sp620,VU 
-sp621,DD
-sp622,DD
-sp623,DD
-sp624,DD
-sp625,LC
-sp626,NT
-sp627,DD
-sp628,DD
-sp629,LC
-sp630,DD
-sp631,DD
-sp632,LC
-sp633,DD
-sp634,NT
-sp635,LC
-sp636,CR
-sp637,CR
-sp638,LC
-sp639,NT
-sp640,DD
-sp641,DD
-sp642,DD
-sp643,LC
-sp644,DD
-sp645,EN
-sp646,VU
-sp647,DD
-sp648,EN
-sp649,DD
-sp650,EN
-sp651,VU
-sp652,DD
-sp653,VU
-sp654,NT
-sp655,DD
-sp656,DD
-sp657,EN
-sp658,EN
-sp659,VU
-sp660,DD
-sp661,DD
-sp662,VU
-sp663,NT
-sp664,DD
-sp665,VU
-sp666,VU
-sp667,LC
-sp668,LC
-sp669,LC
-sp670,VU
-sp671,VU
-sp672,VU
-sp673,VU
-sp674,EN
-sp675,EN
-sp676,EN
-sp677,DD
-sp678,NT
-sp679,VU
-sp680,DD
-sp681,DD
-sp682,VU
-sp683,NT
-sp684,DD
-sp685,VU
-sp686,VU
-sp687,VU
-sp688,DD
-sp689,NT
-sp690,DD
-sp691,EN
-sp692,DD
-sp693,EN
-sp694,EN
-sp695,DD
-sp696,LC
-sp697,EN
-sp698,VU
-sp699,LC
-sp700,VU
-sp701,VU
-sp702,EN
-sp703,EN
-sp704,EN
-sp705,EN
-sp706,DD
-sp707,DD
-sp708,DD
-sp709,DD
-sp710,VU
-sp711,DD
-sp712,EN
-sp713,EN
-sp714,CR
-sp715,DD
-sp716,LC
-sp717,CR
-sp718,LC
-sp719,VU
-sp720,LC
-sp721,EN
-sp722,DD
-sp723,LC
-sp724,EN
-sp725,NT
-sp726,VU
-sp727,LC
-sp728,VU
-sp729,EN
-sp730,DD
-sp731,VU
-sp732,VU
-sp733,DD
-sp734,VU
-sp735,CR
-sp736,NT
-sp737,LC
-sp738,EN
-sp739,VU
-sp740,EN
-sp741,CR
-sp742,DD
-sp743,DD
-sp744,DD
-sp745,DD
-sp746,DD
-sp747,LC
-sp748,DD
-sp749,LC
-sp750,DD
-sp751,NT
-sp752,DD
-sp753,DD
-sp754,DD
-sp755,EN
-sp756,DD
-sp757,NT
-sp758,VU
-sp759,LC
-sp760,DD
-sp761,DD
-sp762,DD
-sp763,DD
-sp764,DD
-sp765,DD
-sp766,DD
-sp767,LC
-sp768,LC
-sp769,DD
-sp770,VU
-sp771,LC
-sp772,DD
-sp773,LC
-sp774,DD
-sp775,DD
-sp776,DD
-sp777,DD
-sp778,DD
-sp779,VU
-sp780,DD
-sp781,DD
-sp782,LC
-sp783,DD
-sp784,LC
-sp785,LC
-sp786,LC
-sp787,DD
-sp788,LC
-sp789,NT
-sp790,DD
-sp791,DD
-sp792,DD
-sp793,DD
-sp794,DD
-sp795,NT
-sp796,LC
-sp797,DD
-sp798,DD
-sp799,LC
-sp800,DD
-sp801,DD
-sp802,DD
-sp803,DD
-sp804,DD
-sp805,LC
-sp806,DD
-sp807,LC
-sp808,DD
-sp809,DD
-sp810,DD
-sp811,DD
-sp812,DD
-sp813,LC
-sp814,DD
-sp815,DD
-sp816,LC
-sp817,DD
-sp818,DD
-sp819,DD
-sp820,DD
-sp821,DD
-sp822,LC
-sp823,DD
-sp824,DD
-sp825,LC
-sp826,DD
-sp827,DD
-sp828,DD
-sp829,DD
-sp830,LC
-sp831,DD
-sp832,DD
-sp833,DD
-sp834,DD
-sp835,DD
-sp836,LC
-sp837,DD
-sp838,DD
-sp839,LC
-sp840,DD
-sp841,LC
-sp842,DD
-sp843,VU
-sp844,DD
-sp845,CR
-sp846,LC
-sp847,LC
-sp848,DD
-sp849,LC
-sp850,DD
-sp851,DD
-sp852,NT
-sp853,VU
-sp854,DD
-sp855,DD
-sp856,LC
-sp857,DD
-sp858,DD
-sp859,DD
-sp860,LC
-sp861,VU
-sp862,LC
-sp863,NT
-sp864,DD
-sp865,EN
-sp866,DD
-sp867,DD
-sp868,DD
-sp869,CR
-sp870,LC
-sp871,DD
-sp872,DD
-sp873,DD
-sp874,DD
-sp875,DD
-sp876,DD
-sp877,DD
-sp878,DD
-sp879,DD
-sp880,DD
-sp881,DD
-sp882,LC
-sp883,CR
-sp884,DD
-sp885,DD
-sp886,LC
-sp887,LC
-sp888,DD
-sp889,VU
-sp890,NT
-sp891,DD
-sp892,DD
-sp893,DD
-sp894,LC
-sp895,VU
-sp896,DD
-sp897,LC
-sp898,VU
-sp899,DD
-sp900,DD
-sp901,LC
-sp902,EN
-sp903,DD
-sp904,DD
-sp905,DD
-sp906,LC
-sp907,LC
-sp908,VU
-sp909,DD
-sp910,LC
-sp911,DD
-sp912,DD
-sp913,DD
-sp914,DD
-sp915,DD
-sp916,VU
-sp917,DD
-sp918,DD
-sp919,DD
-sp920,DD
-sp921,DD
-sp922,DD
-sp923,DD
-sp924,DD
-sp925,VU
-sp926,DD
-sp927,DD
-sp928,DD
-sp929,LC
-sp930,DD
-sp931,DD
-sp932,LC
-sp933,DD
-sp934,VU
-sp935,EN
-sp936,DD
-sp937,DD
-sp938,DD
-sp939,DD
-sp940,DD
-sp941,VU
-sp942,LC
-sp943,VU
-sp944,DD
-sp945,DD
-sp946,LC
-sp947,LC
-sp948,NT
-sp949,VU
-sp950,DD
-sp951,VU
-sp952,LC
-sp953,LC
-sp954,LC
-sp955,DD
-sp956,DD
-sp957,DD
-sp958,DD
-sp959,VU
-sp960,DD
-sp961,DD
-sp962,LC
-sp963,LC
-sp964,NT
-sp965,DD
-sp966,DD
-sp967,DD
-sp968,VU
-sp969,NT
-sp970,NT
-sp971,LC
-sp972,DD
-sp973,DD
-sp974,DD
-sp975,VU
-sp976,VU
-sp977,DD
-sp978,DD
-sp979,DD
-sp980,DD
-sp981,DD
-sp982,DD
-sp983,DD
-sp984,VU
-sp985,LC
-sp986,DD
-sp987,VU
-sp988,DD
-sp989,EN
-sp990,DD
-sp991,VU
-sp992,VU
-sp993,DD
-sp994,DD
-sp995,CR
-sp996,CR
-sp997,EN
-sp998,VU
-sp999,VU
-sp1000,DD
-sp1001,DD
-sp1002,DD
-sp1003,NT
-sp1004,VU
-sp1005,VU
-sp1006,VU
-sp1007,DD
-sp1008,VU
-sp1009,VU
-sp1010,EN
-sp1011,VU
-sp1012,VU
-sp1013,VU
-sp1014,VU
-sp1015,VU
-sp1016,VU
-sp1017,DD
-sp1018,VU
-sp1019,DD
-sp1020,DD
-sp1021,VU
-sp1022,DD
-sp1023,CR
-sp1024,LC
-sp1025,LC
-sp1026,DD
-sp1027,DD
-sp1028,DD
-sp1029,DD
-sp1030,DD
-sp1031,DD
-sp1032,DD
-sp1033,DD
-sp1034,LC
-sp1035,DD
-sp1036,LC
-sp1037,DD
-sp1038,DD
-sp1039,DD
-sp1040,DD
-sp1041,DD
-sp1042,LC
-sp1043,DD
-sp1044,DD
-sp1045,LC
-sp1046,LC
-sp1047,LC
-sp1048,LC
-sp1049,LC
-sp1050,DD
-sp1051,DD
-sp1052,DD
-sp1053,DD
-sp1054,LC
-sp1055,LC
-sp1056,LC
-sp1057,DD
-sp1058,LC
-sp1059,DD
-sp1060,DD
-sp1061,DD
-sp1062,LC
-sp1063,LC
-sp1064,LC
-sp1065,LC
-sp1066,LC
-sp1067,LC
-sp1068,LC
-sp1069,EN
-sp1070,DD
-sp1071,DD
-sp1072,LC
-sp1073,VU
-sp1074,DD
-sp1075,VU
-sp1076,DD
-sp1077,LC
-sp1078,LC
-sp1079,DD
-sp1080,DD
-sp1081,DD
-sp1082,LC
-sp1083,EN
-sp1084,CR
-sp1085,LC
-sp1086,LC
-sp1087,VU
-sp1088,DD
-sp1089,VU
-sp1090,NT
-sp1091,LC
-sp1092,DD
-sp1093,DD
-sp1094,VU
-sp1095,VU
-sp1096,DD
-sp1097,DD
-sp1098,LC
-sp1099,LC
-sp1100,DD
-sp1101,LC
-sp1102,DD
-sp1103,DD
-sp1104,LC
-sp1105,DD
-sp1106,DD
-sp1107,DD
-sp1108,DD
-sp1109,DD
-sp1110,DD
-sp1111,DD
-sp1112,VU
-sp1113,DD
-sp1114,NT
-sp1115,NT
-sp1116,NT
-sp1117,NT
-sp1118,LC
-sp1119,VU
-sp1120,LC
-sp1121,LC
-sp1122,VU
-sp1123,DD
-sp1124,DD
-sp1125,DD
-sp1126,LC
-sp1127,DD
-sp1128,VU
-sp1129,DD
-sp1130,VU
-sp1131,VU
-sp1132,NT
-sp1133,VU
-sp1134,DD
-sp1135,DD
-sp1136,EN
-sp1137,VU
-sp1138,VU
-sp1139,NT
-sp1140,LC
-sp1141,DD
-sp1142,DD
-sp1143,DD
-sp1144,DD
-sp1145,DD
-sp1146,DD
-sp1147,DD
-sp1148,DD
-sp1149,DD
-sp1150,DD
-sp1151,DD
-sp1152,DD
-sp1153,LC
-sp1154,VU
-sp1155,VU
-sp1156,LC
-sp1157,LC
-sp1158,DD
-sp1159,DD
-sp1160,DD
-sp1161,DD
-sp1162,DD
-sp1163,DD
-sp1164,DD
-sp1165,NT
-sp1166,DD
-sp1167,DD
-sp1168,DD
-sp1169,NT
-sp1170,DD
-sp1171,DD
-sp1172,DD
-sp1173,DD
-sp1174,DD
-sp1175,DD
-sp1176,DD
-sp1177,DD
-sp1178,DD
-sp1179,DD
-sp1180,DD
-sp1181,DD
-sp1182,DD
-sp1183,DD
-sp1184,DD
-sp1185,DD
-sp1186,DD
-sp1187,DD
-sp1188,DD
-sp1189,VU
-sp1190,DD
-sp1191,DD
-sp1192,DD
-sp1193,DD
-sp1194,VU
-sp1195,DD
-sp1196,DD
-sp1197,DD
-sp1198,DD
-sp1199,VU
-sp1200,DD
-sp1201,DD
-sp1202,DD
-sp1203,DD
-sp1204,DD
-sp1205,DD
-sp1206,DD
-sp1207,DD
-sp1208,DD
-sp1209,LC
-sp1210,DD
-sp1211,DD
-sp1212,DD
-sp1213,LC
-sp1214,LC
-sp1215,DD
-sp1216,DD
-sp1217,DD
-sp1218,DD
-sp1219,DD
-sp1220,DD
-sp1221,VU
-sp1222,EN
-sp1223,NT
-sp1224,DD
-sp1225,LC
-sp1226,LC
-sp1227,CR
-sp1228,VU
-sp1229,EN
-sp1230,DD
-sp1231,VU
-sp1232,DD
-sp1233,CR
-sp1234,CR
-sp1235,DD
-sp1236,DD
-sp1237,LC
-sp1238,DD
-sp1239,LC
-sp1240,DD
-sp1241,LC
-sp1242,LC
-sp1243,LC
-sp1244,NT
-sp1245,LC
-sp1246,DD
-sp1247,DD
-sp1248,DD
-sp1249,DD
-sp1250,DD
-sp1251,DD
-sp1252,LC
-sp1253,DD
-sp1254,NT
-sp1255,DD
-sp1256,LC
-sp1257,DD
-sp1258,LC
-sp1259,DD
-sp1260,LC
-sp1261,LC
-sp1262,DD
-sp1263,CR
-sp1264,CR
-sp1265,LC
-sp1266,LC
-sp1267,DD
-sp1268,LC
-sp1269,VU
-sp1270,DD
-sp1271,DD
-sp1272,NT
-sp1273,DD
-sp1274,DD
-sp1275,NT
-sp1276,DD
-sp1277,LC
-sp1278,LC
-sp1279,DD
-sp1280,LC
-sp1281,EN 
-sp1282,DD
-sp1283,EN
-sp1284,LC
-sp1285,CR
-sp1286,VU
-sp1287,CR
-sp1288,DD
-sp1289,CR
-sp1290,NT
-sp1291,NT
-sp1292,NT
-sp1293,LC
-sp1294,DD
-sp1295,NT
-sp1296,NT
-sp1297,LC
-sp1298,NT
-sp1299,LC
-sp1300,DD
-sp1301,EN
-sp1302,EN
-sp1303,DD
-sp1304,CR 
-sp1305,LC
-sp1306,CR
-sp1307,VU
-sp1308,NT
-sp1309,VU
-sp1310,NT
-sp1311,VU
-sp1312,EN
-sp1313,EN
-sp1314,VU
-sp1315,DD
-sp1316,NT
-sp1317,EN
-sp1318,DD
-sp1319,NT
-sp1320,NT
-sp1321,DD
-sp1322,DD
-sp1323,DD
-sp1324,NT
-sp1325,DD
-sp1326,VU
-sp1327,VU
-sp1328,EN
-sp1329,LC
-sp1330,NT
-sp1331,DD
-sp1332,EN 
-sp1333,LC
-sp1334,LC
-sp1335,NT
-sp1336,LC
-sp1337,DD
-sp1338,NT
-sp1339,DD
-sp1340,DD
-sp1341,NT
-sp1342,LC
-sp1343,DD
-sp1344,LC
-sp1345,LC
-sp1346,LC
-sp1347,LC
-sp1348,LC
-sp1349,NT
-sp1350,LC
-sp1351,DD
-sp1352,DD
-sp1353,DD
-sp1354,DD
-sp1355,LC
-sp1356,LC
-sp1357,DD
-sp1358,DD
-sp1359,DD
-sp1360,NT
-sp1361,NT
-sp1362,NT
-sp1363,NT
-sp1364,NT
-sp1365,NT
-sp1366,NT
-sp1367,DD
-sp1368,NT
-sp1369,DD
-sp1370,EN
-sp1371,DD
-sp1372,EN
-sp1373,EN
-sp1374,EN
-sp1375,DD
-sp1376,NT
-sp1377,NT
-sp1378,DD
-sp1379,NT
-sp1380,EN 
-sp1381,DD
-sp1382,DD
-sp1383,DD
-sp1384,VU 
-sp1385,EN
-sp1386,DD
-sp1387,DD
-sp1388,NT
-sp1389,NT
-sp1390,NT
-sp1391,DD
-sp1392,EN
-sp1393,VU
-sp1394,LC
-sp1395,LC
-sp1396,LC
-sp1397,LC
-sp1398,LC
-sp1399,EN
-sp1400,VU
-sp1401,DD
-sp1402,DD
-sp1403,DD
-sp1404,DD
-sp1405,DD
-sp1406,CR
-sp1407,EN
-sp1408,VU
-sp1409,DD
-sp1410,NT
-sp1411,VU
-sp1412,CR
-sp1413,DD
-sp1414,EN
-sp1415,CR
-sp1416,NT
-sp1417,LC
-sp1418,LC
-sp1419,LC
-sp1420,LC
-sp1421,RE
-sp1422,VU
-sp1423,VU
-sp1424,DD
-sp1425,LC
-sp1426,VU
-sp1427,LC
-sp1428,LC
-sp1429,DD
-sp1430,DD
-sp1431,EN
-sp1432,LC
-sp1433,LC
-sp1434,LC
-sp1435,LC
-sp1436,LC
-sp1437,LC
-sp1438,LC
-sp1439,NT
-sp1440,LC
-sp1441,NT
-sp1442,DD
-sp1443,DD
-sp1444,LC
-sp1445,LC
-sp1446,LC
-sp1447,LC
-sp1448,DD
-sp1449,LC
-sp1450,LC
-sp1451,NT
-sp1452,NT
-sp1453,NT
-sp1454,NT
-sp1455,LC
-sp1456,NT
-sp1457,DD
-sp1458,NT
-sp1459,NT
-sp1460,LC
-sp1461,NT
-sp1462,LC
-sp1463,DD
-sp1464,NT
-sp1465,NT
-sp1466,LC
-sp1467,NT
-sp1468,DD
-sp1469,LC
-sp1470,VU
-sp1471,DD
-sp1472,DD
-sp1473,DD
-sp1474,LC
-sp1475,LC
-sp1476,LC
-sp1477,VU
-sp1478,VU
-sp1479,LC
-sp1480,LC
-sp1481,VU
-sp1482,LC
-sp1483,LC
-sp1484,LC
-sp1485,LC
-sp1486,DD
-sp1487,LC
-sp1488,LC
-sp1489,LC
-sp1490,LC
-sp1491,LC
-sp1492,LC
-sp1493,LC
-sp1494,LC
-sp1495,LC
-sp1496,LC
-sp1497,LC
-sp1498,LC
-sp1499,LC
-sp1500,VU
-sp1501,DD
-sp1502,DD
-sp1503,EN
-sp1504,DD
-sp1505,DD
-sp1506,DD
-sp1507,DD
-sp1508,DD
-sp1509,LC
-sp1510,LC
-sp1511,DD
-sp1512,DD
-sp1513,DD
-sp1514,LC
-sp1515,DD
-sp1516,DD
-sp1517,EN
-sp1518,DD
-sp1519,DD
-sp1520,LC
-sp1521,DD
-sp1522,DD
-sp1523,LC
-sp1524,LC
-sp1525,NT
-sp1526,DD
-sp1527,DD
-sp1528,DD
-sp1529,NT
-sp1530,LC
-sp1531,LC
-sp1532,DD
-sp1533,DD
-sp1534,DD
-sp1535,DD
-sp1536,DD
-sp1537,DD
-sp1538,DD
-sp1539,DD
-sp1540,DD
-sp1541,DD
-sp1542,DD
-sp1543,DD
-sp1544,DD
-sp1545,NT
-sp1546,DD
-sp1547,VU
-sp1548,DD
-sp1549,DD
-sp1550,DD
-sp1551,DD
-sp1552,DD
-sp1553,DD
-sp1554,VU
-sp1555,VU
-sp1556,DD
-sp1557,DD
-sp1558,DD
-sp1559,DD
-sp1560,DD
-sp1561,DD
-sp1562,VU
-sp1563,NT
-sp1564,NT
-sp1565,LC
-sp1566,LC
-sp1567,LC
-sp1568,LC
-sp1569,NT
-sp1570,DD
-sp1571,DD
-sp1572,NT
-sp1573,DD
-sp1574,LC
-sp1575,LC
-sp1576,NT
-sp1577,NT
-sp1578,LC
-sp1579,LC
-sp1580,LC
-sp1581,NT
-sp1582,LC
-sp1583,DD
-sp1584,DD
-sp1585,NT
-sp1586,NT
-sp1587,DD
-sp1588,LC
-sp1589,LC
-sp1590,LC
-sp1591,LC
+species,species_latin,iucn_level
+sp1,Dasyatis akajei,NT
+sp2,Eudontomyzon morii,VU
+sp3,Lethenteron camschaaticum,LC
+sp4,Lethenteron reissneri,VU
+sp5,Acipenser baerii,EN 
+sp6,Acipenser dabryanus,CR 
+sp7,Acipenser ruthenus,EN
+sp8,Acipenser schrenckii,CR
+sp9,Acipenser sinensis,CR 
+sp10,Huso dauricus,CR
+sp11,Psephurus gladius,CR
+sp12,Anguilla japonica,EN
+sp13,Anguilla marmorata,EN
+sp14,Anguilla bicolor,NT
+sp15,Anguilla nebulosa,NT
+sp16,Tenualosa reevesi,CR
+sp17,Coilia mystus,LC
+sp18,Coilia grayii,LC
+sp19,Coilia nasus,LC
+sp20,Aphyocypris amnis,DD
+sp21,Aphyocypris arcus,DD
+sp22,Aphyocypris chinensis,NT
+sp23,Aphyocypris kikuchii,VU
+sp24,Aphyocypris lini,CR
+sp25,Aphyocypris moltrechti,EN
+sp26,Aphyocypris pulchrilineata,DD
+sp27,Barilius barila,LC
+sp28,Barilius koratensis,DD
+sp29,Cabdio morar,NT
+sp30,Candidia barbata,NT
+sp31,Candidia pingtungensis,DD
+sp32,Danio albolineatus,LC
+sp33,Danio shanensis,LC
+sp34,Devario apogon,NT
+sp35,Devario apopyris,DD
+sp36,Devario browni,NT
+sp37,Devario chrysotaeniatus,NT
+sp38,Devario interruptus,LC
+sp39,Devario kakhienensis,LC
+sp40,Gobiocypris rarus,EN
+sp41,Gymnodanio strigatus,NT
+sp42,Microrasbora microphthalma,DD
+sp43,Nicholsicypris normalis,DD
+sp44,Opsariichthys acutipinnis,LC
+sp45,Opsariichthys bidens,LC
+sp46,Opsariichthys duchuunguyeni?,LC
+sp47,Opsariichthys evolans,LC
+sp48,Opsariichthys hainanensis,LC
+sp49,Opsariichthys kaopingensis,NT
+sp50,Opsariichthys macrolepis,LC
+sp51,Opsariichthys minutus,LC
+sp52,Opsariichthys pachycephalus,DD
+sp53,Opsariichthys uncirostris,LC
+sp54,Opsarius caudiocellatus,LC
+sp55,Opsarius pulchellus,LC
+sp56,Tanichthys albonubes,CR
+sp57,Rasbora atridorsalis,LC
+sp58,Rasbora dusonensis,LC
+sp59,Rasbora septentrionalis,DD
+sp60,Rasbora steineri,LC
+sp61,Parazacco fasciatus,DD
+sp62,Parazacco spilurus,LC
+sp63,Raiamas guttatus,LC
+sp64,Zacco acanthogenys,LC
+sp65,Zacco chengtui,EN
+sp66,Zacco platypus,LC
+sp67,Zacco sinensis,DD
+sp68,Atrilinea macrolepis,CR
+sp69,Atrilinea macrops,DD
+sp70,Atrilinea roulei,VU
+sp71,Ctenopharyngodon idella,LC
+sp72,Elopichthys bambusa,NT
+sp73,Leuciscus aspius,LC
+sp74,Leuciscus baicalensis,LC
+sp75,Leuciscus chuanchicus,CR
+sp76,Leuciscus idus,LC
+sp77,Leuciscus merzbacheri,VU
+sp78,Leuciscus waleckii,LC
+sp79,Luciobrama macrocephalus,CR
+sp80,Mylopharyngodon piceus,LC
+sp81,Ochetobius elongates,CR
+sp82,Phoxinus brachyurus,DD
+sp83,Phoxinus grumi,NT
+sp84,Phoxinus keumkang,NT
+sp85,Phoxinus phoxinus,LC
+sp86,Phoxinus tchangi,LC
+sp87,Phoxinus ujmonensis,DD
+sp88,Pseudaspius leptocephalus,LC
+sp89,Rhynchocypris czekanowskii,LC
+sp90,Rhynchocypris lagowskii,LC
+sp91,Rhynchocypris oxycephalus,LC
+sp92,Rhynchocypris percnurus,LC
+sp93,Rutilus rutilus,LC
+sp94,Squaliobarbus curriculus,LC
+sp95,Tinca tinca,LC
+sp96,Tribolodon brandtii,VU
+sp97,Tribolodon hakonensis,VU
+sp98,Anabarilius alburnops,EN
+sp99,Anabarilius andersoni,CR
+sp100,Anabarilius brevianalis,VU
+sp101,Anabarilius duoyiheensis,DD
+sp102,Anabarilius goldenlineus,DD
+sp103,Anabarilius grahami,VU
+sp104,Anabarilius liui,EN
+sp105,Anabarilius longicaudatus,EN
+sp106,Anabarilius macrolepis,EX
+sp107,Anabarilius maculatus,EN
+sp108,Anabarilius paucirastellus,DD
+sp109,Anabarilius polylepis,EN
+sp110,Anabarilius qiluensis,CR
+sp111,Anabarilius qionghaiensis,CR
+sp112,Anabarilius songmingensis,NT
+sp113,Anabarilius transmontana,EN
+sp114,Anabarilius xundianensis,NT
+sp115,Anabarilius yangzonensis,CR
+sp116,Chanodichthys dabryi,LC
+sp117,Chanodichthys erythropterus,LC
+sp118,Chanodichthys kurematsui,LC
+sp119,Chanodichthys lini,NT
+sp120,Chanodichthys mongolicus,LC
+sp121,Chanodichthys nigrocauda,LC
+sp122,Chanodichthys oxycephaloides,LC
+sp123,Chanodichthys oxycephalus,LC
+sp124,Chanodichthys recurviceps,LC
+sp125,Chanodichthys wangi,NT
+sp126,Culter alburnus,LC
+sp127,Culter compressocorpus,DD
+sp128,Hainania serrata,EN
+sp129,Hemiculterella macrolepis,VU
+sp130,Hemiculterella sauvagei,LC
+sp131,Hemiculterella wui,LC
+sp132,Hemiculter bleekeri,LC
+sp133,Hemiculter leucisculus,LC
+sp134,Hemiculter lucidus,LC
+sp135,Hemiculter tchangi,LC
+sp136,Hemiculter varpachovskii,DD
+sp137,Macrochirichthys macrochirius,VU
+sp138,Megalobrama amblycephala,LC
+sp139,Megalobrama elongata,DD
+sp140,Megalobrama pellegrini,VU
+sp141,Megalobrama mantschuricus,LC
+sp142,Megalobrama terminalis,LC
+sp143,Metzia formosae,VU
+sp144,Metzia lineata,NT
+sp145,Metzia longinasus,DD
+sp146,Metzia mesembrinum,VU
+sp147,Metzia parva,DD
+sp148,Parabramis pekinensis,LC
+sp149,Paralaubuca barroni,NT
+sp150,Pogobrama barbatula,EN
+sp151,Pseudobrama simoni,LC
+sp152,Pseudohemiculter dispar,LC
+sp153,Pseudohemiculter hainanensis,LC
+sp154,Pseudohemiculter kweichowensis,DD
+sp155,Pseudolaubuca engraulis,LC
+sp156,Pseudolaubuca sinensis,LC
+sp157,Sinibrama affinis,DD
+sp158,Sinibrama longianalis,DD
+sp159,Sinibrama macrops,LC
+sp160,Sinibrama melrosei,DD
+sp161,Sinibrama taeniatus,NT
+sp162,Toxabramis hoffmanni,DD
+sp163,Toxabramis houdemeri,LC
+sp164,Toxabramis swinhonis,LC
+sp165,Distoechodon compressus,NT
+sp166,Distoechodon macrophthalmus,CR
+sp167,Distoechodon multispinnis,LC
+sp168,Distoechodon tumirostris,LC
+sp169,Plagiognathops microlepis,LC
+sp170,Xenocyprioides carinatus,VU
+sp171,Xenocyprioides parvulus,VU
+sp172,Xenocypris davidi,LC
+sp173,Xenocypris fangi,VU
+sp174,Xenocypris hupeinensis,DD
+sp175,Xenocypris macrolepis,LC
+sp176,Xenocypris yunnanensis,CR
+sp177,Hypophthalmichthys harmandi,EN
+sp178,Hypophthalmichthys molitrix,LC
+sp179,Hypophthalmichthys nobilis,LC
+sp180,Acheilognathus asmussii,DD
+sp181,Acheilognathus barbatulus,LC
+sp182,Acheilognathus barbatus,LC
+sp183,Acheilognathus binidentatus,LC
+sp184,Acheilognathus brevicaudatus,VU
+sp185,Acheilognathus changtingensis,DD
+sp186,Acheilognathus chankaensis,LC
+sp187,Acheilognathus elongatus,CR
+sp188,Acheilognathus gracilis,LC
+sp189,Acheilognathus hypselonotus,LC
+sp190,Acheilognathus imberbis,LC
+sp191,Acheilognathus macromandibularis,LC
+sp192,Acheilognathus macropterus,LC
+sp193,Acheilognathus meridianus,LC
+sp194,Acheilognathus microphysa,EN
+sp195,Acheilognathus omeiensis,LC
+sp196,Acheilognathus polylepis,LC
+sp197,Acheilognathus striatus,DD
+sp198,Acheilognathus tonkinensis,DD
+sp199,Paratanakia chii,LC
+sp200,Paratanakia himantegus,NT
+sp201,Rhodeus albomarginatus,DD
+sp202,Rhodeus amurensis,LC
+sp203,Rhodeus cyanorostris,DD
+sp204,Rhodeus fangi,LC
+sp205,Rhodeus flaviventris,DD
+sp206,Rhodeus haradai,LC
+sp207,Rhodeus mantschuricus,LC
+sp208,Rhodeus nigrodorsalis,DD
+sp209,Rhodeus notatus,LC
+sp210,Rhodeus ocellatus,LC
+sp211,Rhodeus sericeus,LC
+sp212,Rhodeus shitaiensis,NT
+sp213,Rhodeus sinensis,LC
+sp214,Rhodeus spinalis,DD
+sp215,Sinorhodeus microlepis,DD
+sp216,Abbottina liaoningensis,LC
+sp217,Abbottina obtusirostris,LC
+sp218,Abbottina rivularis,LC
+sp219,Acanthogobio guentheri,EN
+sp220,Belligobio nummifer,LC
+sp221,Belligobio pengxianensis,VU
+sp222,Coreius guichenoti,CR
+sp223,Coreius heterodon,DD
+sp224,Coreius septentrionalis,CR
+sp225,Gnathopogon herzensteini,DD
+sp226,Gnathopogon imberbis,DD
+sp227,Gnathopogon mantschuricus,LC
+sp228,Gnathopogon nicholsi,DD
+sp229,Gnathopogon polytaenia,LC
+sp230,Gnathopogon taeniellus,LC
+sp231,Gnathopogon tsinanensis,DD
+sp232,Gobio acutipinnatus,DD
+sp233,Gobio coriparoides,DD
+sp234,Gobio cynocephalus,LC
+sp235,Gobio fushunensis,DD
+sp236,Gobio gobio,LC
+sp237,Gobio huanghensis,EN
+sp238,Gobio lingyuanensis,LC
+sp239,Gobio macrocephalus,LC
+sp240,Gobio meridionalis,DD
+sp241,Gobio rivuloides,LC
+sp242,Gobio soldatovi,LC
+sp243,Hemibarbus brevipennus,LC
+sp244,Hemibarbus labeo,LC
+sp245,Hemibarbus longirostris,LC
+sp246,Hemibarbus macracanthus,LC
+sp247,Hemibarbus maculatus,LC
+sp248,Hemibarbus medius,LC
+sp249,Hemibarbus qianjiangensis,LC
+sp250,Hemibarbus umbrifer,LC
+sp251,Huigobio chenhsienensis,LC
+sp252,Huigobio exilicauda,LC
+sp253,Ladislavia taczanowskii,LC
+sp254,Mesogobio lachneri,DD
+sp255,Mesogobio tumenensis,LC
+sp256,Microphysogobio alticorpus,LC
+sp257,Microphysogobio amurensis,DD
+sp258,Microphysogobio brevirostris,DD
+sp259,Microphysogobio chinssuensis,DD
+sp260,Microphysogobio elongatus,DD
+sp261,Microphysogobio fukiensis,DD
+sp262,Microphysogobio hsinglungshanensis,DD
+sp263,Microphysogobio kachekensis,DD
+sp264,Microphysogobio kiatingensis,DD
+sp265,Microphysogobio labeoides,DD
+sp266,Microphysogobio liaohensis,DD
+sp267,Microphysogobio linghensis,DD
+sp268,Microphysogobio luhensis,DD
+sp269,Microphysogobio microstomus,DD
+sp270,Microphysogobio nudiventris,DD
+sp271,Microphysogobio pseudoelongatus,DD
+sp272,Microphysogobio tafangensis,DD
+sp273,Microphysogobio tungtingensis,DD
+sp274,Microphysogobio wulonghensis,DD
+sp275,Microphysogobio xianyouensis,DD
+sp276,Microphysogobio yunnanensis,VU
+sp277,Microphysogobio zhangi,DD
+sp278,Paracanthobrama guichenoti,LC
+sp279,Platysmacheilus exiguus,LC
+sp280,Platysmacheilus longibarbatus,DD
+sp281,Platysmacheilus nudiventris,LC
+sp282,Platysmacheilus zhenjiangensis,DD
+sp283,Paraleucogobio notacanthus,DD
+sp284,Paraleucogobio strigatus,DD
+sp285,Pseudogobio guilinensis,LC
+sp286,Pseudogobio vaillanti,LC
+sp287,Pseudorasbora elongata,VU
+sp288,Pseudorasbora interrupta,LC
+sp289,Pseudorasbora parva,LC
+sp290,Pungtungia herzi,LC
+sp291,Rhinogobio cylindricus,LC
+sp292,Rhinogobio hunanensis,DD
+sp293,Rhinogobio nasutus,NT
+sp294,Rhinogobio typus,LC
+sp295,Rhinogobio ventralis,EN
+sp296,Romanogobio amplexilabris,DD
+sp297,Romanogobio johntreadwelli,DD
+sp298,Romanogobio tenuicorpus,LC
+sp299,Rostrogobio liaohensis,LC
+sp300,Sarcocheilichthys czerskii,LC
+sp301,Sarcocheilichthys davidi,NT
+sp302,Sarcocheilichthys fukiensis,LC
+sp303,Sarcocheilichthys hainanensis,LC
+sp304,Sarcocheilichthys kiangsiensis,LC
+sp305,Sarcocheilichthys lacustris,LC
+sp306,Sarcocheilichthys nigripinnis,LC
+sp307,Sarcocheilichthys parvus,LC
+sp308,Sarcocheilichthys sinensis,LC
+sp309,Sarcocheilichthys soldatovi,LC
+sp310,Sarcocheilichthys vittatus,DD
+sp311,Saurogobio dabryi,LC
+sp312,Saurogobio dumerili,LC
+sp313,Saurogobio gracilicaudatus,LC
+sp314,Saurogobio gymnocheilus,LC
+sp315,Saurogobio immaculatus,LC
+sp316,Saurogobio lissilabris,DD
+sp317,Saurogobio punctatus,DD
+sp318,Saurogobio xiangjiangensis,LC
+sp319,Squalidus argentatus,LC
+sp320,Squalidus atromaculatus,DD
+sp321,Squalidus banarescui,CR
+sp322,Squalidus chankaensis,DD
+sp323,Squalidus iijimae,CR
+sp324,Squalidus intermedius,DD
+sp325,Squalidus mantschuricus,LC
+sp326,Squalidus minor,EN
+sp327,Squalidus nitens,LC
+sp328,Squalidus wolterstorffi,LC
+sp329,Gobiobotia abbreviata,LC
+sp330,Gobiobotia brevirostris,LC
+sp331,Gobiobotia cheni,VU
+sp332,Gobiobotia filifer,LC
+sp333,Gobiobotia guilingensis,DD
+sp334,Gobiobotia homalopteroidea,DD
+sp335,Gobiobotia jiangxiensis,DD
+sp336,Gobiobotia kolleri,DD
+sp337,Gobiobotia intermedia,VU
+sp338,Gobiobotia longibarba,DD
+sp339,Gobiobotia meridionalis,NT
+sp340,Gobiobotia nicholsi,NT
+sp341,Gobiobotia pappenheimi,DD
+sp342,Gobiobotia paucirastella,DD
+sp343,Gobiobotia tungi,DD
+sp344,Gobiobotia yuanjiangensis,VU
+sp345,Xenophysogobio boulengeri,DD
+sp346,Xenophysogobio nudicorpa,LC
+sp347,Carassioides acuminatus,LC
+sp348,Carassius auratus,LC
+sp349,Carassius carassius,LC
+sp350,Carassius gibelio,LC
+sp351,Cyprinus acutidorsalis,LC
+sp352,Cyprinus bajiangensis,DD
+sp353,Cyprinus barbatus,CR
+sp354,Cyprinus chilia,EN
+sp355,Cyprinus daliensis,CR
+sp356,Cyprinus fuxianensis,CR
+sp357,Cyprinus ilishaestomus,CR
+sp358,Cyprinus longipectoralis,VU
+sp359,Cyprinus longzhouensis,EN
+sp360,Cyprinus megalophthalmus,CR
+sp361,Cyprinus micristius,CR
+sp362,Cyprinus multitaeniata,LC
+sp363,Cyprinus pellegrini,CR
+sp364,Cyprinus qionghaiensis,CR
+sp365,Cyprinus rubrofuscus,LC
+sp366,Cyprinus yilongensis,EX
+sp367,Cyprinus yunnanensis,CR
+sp368,Procypris merus,EN 
+sp369,Procypris rabaudi,VU
+sp370,Acrossocheilus beijiangensis,LC
+sp371,Acrossocheilus clivosius,DD
+sp372,Acrossocheilus fasciatus,LC
+sp373,Acrossocheilus hemispinus,LC
+sp374,Acrossocheilus iridescens,VU
+sp375,Acrossocheilus jishouensis,LC
+sp376,Acrossocheilus kreyenbergii,LC
+sp377,Acrossocheilus longipinnis,VU
+sp378,Acrossocheilus microstoma,NT
+sp379,Acrossocheilus monticola,LC
+sp380,Acrossocheilus multistriatus,DD
+sp381,Acrossocheilus paradoxus,LC
+sp382,Acrossocheilus parallens,LC
+sp383,Acrossocheilus spinifer,LC
+sp384,Acrossocheilus wenchowensis,LC
+sp385,Acrossocheilus wuyiensis,LC
+sp386,Acrossocheilus yunnanensis,LC
+sp387,Barbodes polylepis,DD
+sp388,Barbonymus gonionotus,NT
+sp389,Cosmochilus cardinalis,EN
+sp390,Cosmochilus nanlaensis,DD
+sp391,Cyclocheilichthys repasson,NT
+sp392,Cyclocheilichthys sinensis,DD
+sp393,Discherodonus parvus,VU
+sp394,Folifer brevifilis,NT
+sp395,Folifer hainanensis,EN
+sp396,Folifer yunnanensis,EN
+sp397,Hampala macrolepidota,NT
+sp398,Hypsibarbus vernayi,LC
+sp399,Linichthys laticeps,VU
+sp400,Luciocyprinus langsoni,EN
+sp401,Luciocyprinus striolatus,EN
+sp402,Mystacoleucus lepturus,NT
+sp403,Mystacoleucus marginatus,LC
+sp404,Neolissochilus baoshanensis,NT
+sp405,Neolissochilus benasi,VU
+sp406,Neolissochilus heterostomus,LC
+sp407,Neolissochilus hexagonolepis,NT
+sp408,Onychostoma alticorpus,NT
+sp409,Onychostoma angustistomata,EN
+sp410,Onychostoma barbatulum,NT
+sp411,Onychostoma barbatum,NT
+sp412,Onychostoma brevis,EN
+sp413,Onychostoma daduensis,CR
+sp414,Onychostoma elongatum,DD
+sp415,Onychostoma fangi,LC
+sp416,Onychostoma fusiforme,LC
+sp417,Onychostoma gerlachi,LC
+sp418,Onychostoma lepturum,NT
+sp419,Onychostoma lini,VU
+sp420,Onychostoma macrolepis,VU
+sp421,Onychostoma minnanensis,DD
+sp422,Onychostoma ovale,NT
+sp423,Onychostoma rarum,VU
+sp424,Onychostoma simum,NT
+sp425,Onychostoma virgulatum,DD
+sp426,Paraspinibarbus alloiopleurus,VU
+sp427,Parator zonatus,VU
+sp428,Percocypris pingi,EN
+sp429,Percocypris regani,VU
+sp430,Percocypris retrodorslis,VU
+sp431,Percocypris tchangi,DD
+sp432,Pethia ticto,LC
+sp433,Poropuntius carinatus,NT
+sp434,Poropuntius chonglingchungi,CR
+sp435,Poropuntius cogginii,CR
+sp436,Poropuntius exiguus,CR
+sp437,Poropuntius fuxianhuensis,VU
+sp438,Poropuntius huangchuchieni,LC
+sp439,Poropuntius ikedai,EN
+sp440,Poropuntius krempfi,DD
+sp441,Poropuntius margarianus,LC
+sp442,Poropuntius opisthopterus,VU
+sp443,Poropuntius rhomboides,DD
+sp444,Poropuntius xamensis,NT
+sp445,Puntius paucimaculatus,LC
+sp446,Puntius semifasciolatus,LC
+sp447,Puntius snyderi,LC
+sp448,Puntius sophore,LC
+sp449,Puntioplites falcifer,NT
+sp450,Puntioplites waandersi,NT
+sp451,Scaphiodonichthys acanthopterus,LC
+sp452,Scaphiodonichthys macracanthus,NT
+sp453,Sikukia flavicaudata,NT
+sp454,Sikukia gudgeri,NT
+sp455,Sikukia longibarbata,VU
+sp456,Sinocyclocheilus altishoulderus,LC
+sp457,Sinocyclocheilus aluensis,VU
+sp458,Sinocyclocheilus anatirostris,VU
+sp459,Sinocyclocheilus angularis,VU
+sp460,Sinocyclocheilus angustiporus,NT
+sp461,Sinocyclocheilus anophthalmus,EN
+sp462,Sinocyclocheilus anshuiensis,DD
+sp463,Sinocyclocheilus aquihornes,VU
+sp464,Sinocyclocheilus bannaensis,DD
+sp465,Sinocyclocheilus bicornutus,VU
+sp466,Sinocyclocheilus brevibarbatus,DD
+sp467,Sinocyclocheilus brevifinus,DD
+sp468,Sinocyclocheilus brevis,VU
+sp469,Sinocyclocheilus broadihornes,VU
+sp470,Sinocyclocheilus convexiforeheadus,DD
+sp471,Sinocyclocheilus cyphotergous,VU
+sp472,Sinocyclocheilus donglanensis,NT
+sp473,Sinocyclocheilus dongtangensis,DD
+sp474,Sinocyclocheilus flexuosdorsalis,DD
+sp475,Sinocyclocheilus furcodorsalis,VU
+sp476,Sinocyclocheilus gracilicaudatus,DD
+sp477,Sinocyclocheilus gracilis,DD
+sp478,Sinocyclocheilus grahami,CR
+sp479,Sinocyclocheilus guanduensis,DD
+sp480,Sinocyclocheilus guanyangensis,DD
+sp481,Sinocyclocheilus guilinensis,LC
+sp482,Sinocyclocheilus guishanensis,VU
+sp483,Sinocyclocheilus hei,DD
+sp484,Sinocyclocheilus huanglongdongensis,DD
+sp485,Sinocyclocheilus huangtianensis,DD
+sp486,Sinocyclocheilus huaningensis,VU
+sp487,Sinocyclocheilus huanjiangensis,DD
+sp488,Sinocyclocheilus hugeibarbus,DD
+sp489,Sinocyclocheilus huizeensis,DD
+sp490,Sinocyclocheilus hyalinus,VU
+sp491,Sinocyclocheilus jii,LC
+sp492,Sinocyclocheilus jinxiensis,DD
+sp493,Sinocyclocheilus jiuxuensis,NT
+sp494,Sinocyclocheilus lateristriatus,EN
+sp495,Sinocyclocheilus liboensis,DD
+sp496,Sinocyclocheilus lingyunensis,VU
+sp497,Sinocyclocheilus longibarbatus,LC
+sp498,Sinocyclocheilus longifinus,VU
+sp499,Sinocyclocheilus longshanensis,DD
+sp500,Sinocyclocheilus luolouensis,DD
+sp501,Sinocyclocheilus luopingensis,VU
+sp502,Sinocyclocheilus macrocephalus,VU
+sp503,Sinocyclocheilus macrolepis,LC
+sp504,Sinocyclocheilus macrophthalmus,LC
+sp505,Sinocyclocheilus macroscalus,VU
+sp506,Sinocyclocheilus maculatus,VU
+sp507,Sinocyclocheilus maitianheensis,NT
+sp508,Sinocyclocheilus malacopterus,VU
+sp509,Sinocyclocheilus mashanensis,LC
+sp510,Sinocyclocheilus microphthalmus,LC
+sp511,Sinocyclocheilus multipunctatus,NT
+sp512,Sinocyclocheilus oxycephalus,VU
+sp513,Sinocyclocheilus pingshanensis,DD
+sp514,Sinocyclocheilus punctatus,DD
+sp515,Sinocyclocheilus purpureus,EN
+sp516,Sinocyclocheilus qiubeiensis,VU
+sp517,Sinocyclocheilus qujingensis,VU
+sp518,Sinocyclocheilus rhinocerous,VU
+sp519,Sinocyclocheilus robustus,DD
+sp520,Sinocyclocheilus ronganensis,DD
+sp521,Sinocyclocheilus sanxiaensis,DD
+sp522,Sinocyclocheilus simengensis,DD
+sp523,Sinocyclocheilus tianlinensis,VU
+sp524,Sinocyclocheilus tileihornes,VU
+sp525,Sinocyclocheilus tingi,EN
+sp526,Sinocyclocheilus wenshanensis,DD
+sp527,Sinocyclocheilus wui,DD
+sp528,Sinocyclocheilus wumengshanensis,VU
+sp529,Sinocyclocheilus xichouensis,VU
+sp530,Sinocyclocheilus xunlensis,VU
+sp531,Sinocyclocheilus yangzongensis,CR
+sp532,Sinocyclocheilus yaolanensis,LC
+sp533,Sinocyclocheilus yimenensis,VU
+sp534,Sinocyclocheilus yishanensis,LC
+sp535,Sinocyclocheilus zhenfengensis,DD
+sp536,Spinibarbichthys denticulatus,LC
+sp537,Spinibarbichthys yunnanensis,EN
+sp538,Spinibarbus polylepis,DD
+sp539,Spinibarbus sinensis,LC
+sp540,Spinibarbus caldwelli,DD
+sp541,Spinibarbus hollandi,LC
+sp542,Systomus orphoides,DD
+sp543,Tor douronensis,DD
+sp544,Tor hemispinus,DD
+sp545,Tor laterivittatus,DD
+sp546,Tor polylepis,DD
+sp547,Tor qiaojieensis,VU
+sp548,Tor sinensis,NT
+sp549,Tor tambra,NT
+sp550,Tor tambroides,NT
+sp551,Tor yingjiangensis,NT
+sp552,Typhlobarbus nudiventris,CR
+sp553,Altigena discognathoides,CR
+sp554,Altigena lippus,NT
+sp555,Altigena tonkinensis,VU
+sp556,Altigena wui,EN
+sp557,Altigena yunnanensis,VU
+sp558,Altigena zhui,CR
+sp559,Ageneiogarra micropulvinus,LC
+sp560,Ageneiogarra imberba,LC
+sp561,Bangana brevirostris,DD
+sp562,Bangana cirrhinoides,DD
+sp563,Bangana dero,LC
+sp564,Bangana devdevi,LC
+sp565,Ceratogarra cambodgiensis,NT
+sp566,Ceratogarra fasciacauda,NT
+sp567,Cirrhinus molitorella,LC
+sp568,Cophecheilus bamen,DD
+sp569,Cophecheilus brevibarbatus,DD
+sp570,Crossocheilus reticulatus,NT
+sp571,Decorus decora,CR
+sp572,Decorus lemassoni,DD
+sp573,Decorus rendahli,DD
+sp574,Decorus tungting,EN
+sp575,Decorus xanthogenys,DD
+sp576,Discocheilus multilepis,DD
+sp577,Discocheilus wui,DD
+sp578,Discocheilus wuluoheensis,DD
+sp579,Discogobio antethoracalis,NT
+sp580,Discogobio bismargaritus,DD
+sp581,Discogobio brachyphysallidos,NT
+sp582,Discogobio elongatus,NT
+sp583,Discogobio laticeps,NT
+sp584,Discogobio longibarbatus,CR
+sp585,Discogobio macrophysallidos,NT
+sp586,Discogobio multilineatus,DD
+sp587,Discogobio poneventralis,NT
+sp588,Discogobio propeanalis,DD
+sp589,Discogobio tetrabarbatus,LC
+sp590,Discogobio yunnanensis,LC
+sp591,Fivepearlus yunnanensis,DD
+sp592,Garra bispinosa,NT
+sp593,Garra dengba,DD
+sp594,Garra dulongensis,NT
+sp595,Garra gravelyi,NT
+sp596,Garra incisorbis,DD
+sp597,Garra longchuanensis,DD
+sp598,Garra mirofrontis,LC
+sp599,Garra motuoensis,DD
+sp600,Garra nujiangensis,NT
+sp601,Garra orientalis,LC
+sp602,Garra qiaojiensis,LC
+sp603,Garra rotundinasus,NT
+sp604,Garra salweenica,LC
+sp605,Garra surgifrons,DD
+sp606,Garra tengchongensis,LC
+sp607,Garra tibetana,DD
+sp608,Garra yajiangensis,DD
+sp609,Henicorhynchus lineatus,NT
+sp610,Hongshuia banmo,DD
+sp611,Hongshuia megalophthalmus,DD
+sp612,Hongshuia microstomatus,DD
+sp613,Labeo pierrei,NT
+sp614,Labiobarbus lineatus,NT
+sp615,Lanlabeo duanensis,DD
+sp616,Lobocheilos melanotaenia,NT
+sp617,Longanalus macrochirous,LC
+sp618,Mekongina lancangensis,DD
+sp619,Osteochilus salsburyi,NT
+sp620,Parasinilabeo assimilis,VU 
+sp621,Parasinilabeo longibarbus,DD
+sp622,Parasinilabeo longiventralis,DD
+sp623,Parasinilabeo maculatus,DD
+sp624,Parasinilabeo microps,DD
+sp625,Placocheilus caudofasciatus,LC
+sp626,Placocheilus cryptonemus,NT
+sp627,Placocheilus robustus,DD
+sp628,Prolixicheilus longisulcus,DD
+sp629,Pseudocrossocheilus bamaensis,LC
+sp630,Pseudocrossocheilus liuchengensis,DD
+sp631,Pseudocrossocheilus longibullus,DD
+sp632,Pseudocrossocheilus nigrovittatus,LC
+sp633,Pseudocrossocheilus papillolabrus,DD
+sp634,Pseudocrossocheilus tridentis,NT
+sp635,Pseudogyrinocheilus prochilus,LC
+sp636,Ptychidio jordani,CR
+sp637,Ptychidio longibarbus,CR
+sp638,Ptychidio macrops,LC
+sp639,Qianlabeo striatus,NT
+sp640,Qianlabeo lineatus,DD
+sp641,Rectoris longibarbus,DD
+sp642,Rectoris longifinus,DD
+sp643,Rectoris mutabilis,LC
+sp644,Rectoris posehensis,DD
+sp645,Semilabeo notabilis,EN
+sp646,Semilabeo obscurus,VU
+sp647,Sinilabeo longibarbatus,DD
+sp648,Sinilabeo hummeli,EN
+sp649,Sinigarra napoense,DD
+sp650,Sinocrossocheilus guizhouensis,EN
+sp651,Sinocrossocheilus labiatus,VU
+sp652,Stenorynchoacrum xijiangensis,DD
+sp653,Tariqilabeo bicornis,VU
+sp654,Tariqilabeo burmanicus,NT
+sp655,Vinagarra findolabium,DD
+sp656,Zuojiangia jingxiensis,DD
+sp657,Aspiorhynchus laticeps,EN
+sp658,Chuanchia labiosa,EN
+sp659,Diptychus maculatus,VU
+sp660,Gymnocypris chui,DD
+sp661,Gymnocypris dobula,DD
+sp662,Gymnocypris eckloni,VU
+sp663,Gymnocypris namensis,NT
+sp664,Gymnocypris pengquensis,DD
+sp665,Gymnocypris potanini,VU
+sp666,Gymnocypris przewalskii,VU
+sp667,Gymnocypris scleracanthus,LC
+sp668,Gymnocypris scoliostomus,LC
+sp669,Gymnocypris waddellii,LC
+sp670,Gymnodiptychus dybowskii,VU
+sp671,Gymnodiptychus integrigymnatus,VU
+sp672,Gymnodiptychus pachycheilus,VU
+sp673,Herzensteinia microcephalus,VU
+sp674,Oxygymnocypris stewartii,EN
+sp675,Platypharodon extremus,EN
+sp676,Ptychobarbus chungtienensis,EN
+sp677,Ptychobarbus conirostris,DD
+sp678,Ptychobarbus dipogon,NT
+sp679,Ptychobarbus kaznakovi,VU
+sp680,Ptychobarbus leptosomus,DD
+sp681,Schizopygopsis anteroventris,DD
+sp682,Schizopygopsis chengi,VU
+sp683,Schizopygopsis firmispinata,NT
+sp684,Schizopygopsis kessleri,DD
+sp685,Schizopygopsis kialingensis,VU
+sp686,Schizopygopsis malacanthus,VU
+sp687,Schizopygopsis pylzovi,VU
+sp688,Schizopygopsis stoliczkai,DD
+sp689,Schizopygopsis thermalis,NT
+sp690,Schizopygopsis younghusbandi,DD
+sp691,Schizothorax argentatus,EN
+sp692,Schizothorax beipanensis,DD
+sp693,Schizothorax biddulphi,EN
+sp694,Schizothorax chongi,EN
+sp695,Schizothorax cryptolepis,DD
+sp696,Schizothorax curvilabiatus,LC
+sp697,Schizothorax davidi,EN
+sp698,Schizothorax dolichonema,VU
+sp699,Schizothorax dulongensis,LC
+sp700,Schizothorax elongatus,VU
+sp701,Schizothorax esocinus,VU
+sp702,Schizothorax eurystomus,EN
+sp703,Schizothorax gongshanensis,EN
+sp704,Schizothorax grahami,EN
+sp705,Schizothorax griseus,EN
+sp706,Schizothorax heteri,DD
+sp707,Schizothorax heterochilus,DD
+sp708,Schizothorax heterophysallidos,DD
+sp709,Schizothorax integrilabiatus,DD
+sp710,Schizothorax kozlovi,VU
+sp711,Schizothorax labiatus,DD
+sp712,Schizothorax labrosus,EN
+sp713,Schizothorax lantsangensis,EN
+sp714,Schizothorax lepidothorax,CR
+sp715,Schizothorax leukus,DD
+sp716,Schizothorax lissolabiatus,LC
+sp717,Schizothorax longibarbus,CR
+sp718,Schizothorax macropogon,LC
+sp719,Schizothorax malacanthus,VU
+sp720,Schizothorax meridionalis,LC
+sp721,Schizothorax microstomus,EN
+sp722,Schizothorax molesworthi,DD
+sp723,Schizothorax myzostomus,LC
+sp724,Schizothorax ninglangensis,EN
+sp725,Schizothorax nudiventris,NT
+sp726,Schizothorax nukiangensis,VU
+sp727,Schizothorax oconnori,LC
+sp728,Schizothorax oligolepis,VU
+sp729,Schizothorax parvus,EN
+sp730,Schizothorax plagiostomus,DD
+sp731,Schizothorax prenanti,VU
+sp732,Schizothorax pseudoaksaiensis,VU
+sp733,Schizothorax puncticulatus,DD
+sp734,Schizothorax sinensis,VU
+sp735,Schizothorax taliensis,CR
+sp736,Schizothorax waltoni,NT
+sp737,Schizothorax wangchiachii,LC
+sp738,Schizothorax yunnanensis,EN
+sp739,Psilorhynchus arunachalensis,VU
+sp740,Gyrinocheilus aymonieri,EN
+sp741,Myxocyprinus asiaticus,CR
+sp742,Barbatula altayensis,DD
+sp743,Barbatula emuensis,DD
+sp744,Barbatula gibba,DD
+sp745,Barbatula liaoyangensis,DD
+sp746,Barbatula linjiangensis,DD
+sp747,Barbatula nuda,LC
+sp748,Barbatula potaninorum,DD
+sp749,Barbatula toni,LC
+sp750,Barbatula zhangwuensis,DD
+sp751,Claea dabryi,NT
+sp752,Claea niulanjiangensis,DD
+sp753,Hedinichthys grummorum,DD
+sp754,Hedinichthys macropterus,DD
+sp755,Heminoemacheilus hyalinus,EN
+sp756,Heminoemacheilus parvus,DD
+sp757,Heminoemacheilus zhengbaoshani,NT
+sp758,Homatula acuticephala,VU
+sp759,Homatula anguillioides,LC
+sp760,Homatula anteridorsalis,DD
+sp761,Homatula berezowskii,DD
+sp762,Homatula change,DD
+sp763,Homatula coccinocola,DD
+sp764,Homatula cryptoclathrata,DD
+sp765,Homatula disparizona,DD
+sp766,Homatula laxiclathra,DD
+sp767,Homatula longidorsalis,LC
+sp768,Homatula nanpanjiangensis,LC
+sp769,Homatula nigra,DD
+sp770,Homatula oligolepis,VU
+sp771,Homatula potanini,LC
+sp772,Homatula pycnolepis,DD
+sp773,Homatula variegata,LC
+sp774,Homatula wenshanensis,DD
+sp775,Homatula wujiangensis,DD
+sp776,Homatula wuliangensis,DD
+sp777,Lefua costata,DD
+sp778,Neonoemacheilus mengdingensis,DD
+sp779,Oreonectes anophthalmus,VU
+sp780,Oreonectes donglanensis,DD
+sp781,Oreonectes duanensis,DD
+sp782,Oreonectes guananensis,LC
+sp783,Oreonectes guilinensis,DD
+sp784,Oreonectes luochengensis,LC
+sp785,Oreonectes platycephalus,LC
+sp786,Oreonectes polystigmus,LC
+sp787,Oreonectes shuilongensis,DD
+sp788,Paracanthocobitis botia,LC
+sp789,Paranemachilus genilepis,NT
+sp790,Paranemachilus pingguoensis,DD
+sp791,Petruichthys brevis,DD
+sp792,Physoschistura absumbra,DD
+sp793,Physoschistura raoi,DD
+sp794,Physoschistura shuangjiangensis,DD
+sp795,Protonemacheilus longipectoralis,NT
+sp796,Pteronemacheilus meridionalis,LC
+sp797,Qinghaichthys rotundiventris,DD
+sp798,Qinghaichthys zaidamensis,DD
+sp799,Schistura aff. Scaturigina,LC
+sp800,Schistura albirostris,DD
+sp801,Schistura alboguttata,DD
+sp802,Schistura amplizona,DD
+sp803,Schistura bannaensis,DD
+sp804,Schistura breviceps,DD
+sp805,Schistura bucculenta,LC
+sp806,Schistura callichromus,DD
+sp807,Schistura caudofurca,LC
+sp808,Schistura conirostris,DD
+sp809,Schistura cryptofasciata,DD
+sp810,Schistura disparizona,DD
+sp811,Schistura fasciolata,DD
+sp812,Schistura greenei,DD
+sp813,Schistura hingi,LC
+sp814,Schistura huapingensis,DD
+sp815,Schistura incerta,DD
+sp816,Schistura kengtungensis,LC
+sp817,Schistura kloetzliae,DD
+sp818,Schistura latifasciata,DD
+sp819,Schistura longa,DD
+sp820,Schistura macrocephalus,DD
+sp821,Schistura macrotaenia,DD
+sp822,Schistura malaisei,LC
+sp823,Schistura megalodon,DD
+sp824,Schistura nandingensis,DD
+sp825,Schistura nicholsi,LC
+sp826,Schistura niulanjiangensis,DD
+sp827,Schistura notasileum,DD
+sp828,Schistura paraxena,DD
+sp829,Schistura pertica,DD
+sp830,Schistura poculi,LC
+sp831,Schistura polytaenia,DD
+sp832,Schistura porthos,DD
+sp833,Schistura prolixifasciata,DD
+sp834,Schistura pseudofasciolata,DD
+sp835,Schistura rara,DD
+sp836,Schistura scaturigina,LC
+sp837,Schistura schultzi,DD
+sp838,Schistura sexnubes,DD
+sp839,Schistura sikmaiensis,LC
+sp840,Schistura stala,DD
+sp841,Schistura vinciguerrae,LC
+sp842,Schistura waltoni,DD
+sp843,Schistura yingjiangensis,VU
+sp844,Sectoria heterognathos,DD
+sp845,Sphaerophysa dianchiensis,CR
+sp846,Traccatichthys pulcher,LC
+sp847,Traccatichthys taeniatus,LC
+sp848,Traccatichthys tuberculum,DD
+sp849,Traccatichthys zispi,LC
+sp850,Triplophysa alexandrae,DD
+sp851,Triplophysa aliensis,DD
+sp852,Triplophysa alticeps,NT
+sp853,Triplophysa aluensis,VU
+sp854,Triplophysa angeli,DD
+sp855,Triplophysa anshuiensis,DD
+sp856,Triplophysa anterodorsalis,LC
+sp857,Triplophysa aquaecaeruleae,DD
+sp858,Triplophysa baotianensis,DD
+sp859,Triplophysa bashanensis,DD
+sp860,Triplophysa bleekeri,LC
+sp861,Triplophysa bombifrons,VU
+sp862,Triplophysa brachyptera,LC
+sp863,Triplophysa brevibarba,NT
+sp864,Triplophysa brevicauda,DD
+sp865,Triplophysa cakaensis,EN
+sp866,Triplophysa chondrostoma,DD
+sp867,Triplophysa crassicauda,DD
+sp868,Triplophysa crassilabris,DD
+sp869,Triplophysa cuneicephala,CR
+sp870,Triplophysa dalaica,LC
+sp871,Triplophysa daochengensis,DD
+sp872,Triplophysa daqiaoensis,DD
+sp873,Triplophysa dongganensis,DD
+sp874,Triplophysa dorsalis,DD
+sp875,Triplophysa dorsonotatus,DD
+sp876,Triplophysa edsinica,DD
+sp877,Triplophysa erythraea,DD
+sp878,Triplophysa eugeniae,DD
+sp879,Triplophysa fengshanensis,DD
+sp880,Triplophysa flavicorpus,DD
+sp881,Triplophysa furva,DD
+sp882,Triplophysa fuxianensis,LC
+sp883,Triplophysa gejiuensis,CR
+sp884,Triplophysa gerzeensis,DD
+sp885,Triplophysa gracilis,DD
+sp886,Triplophysa grahami,LC
+sp887,Triplophysa griffithii,LC
+sp888,Triplophysa guizhouensis,DD
+sp889,Triplophysa hexiensis,VU
+sp890,Triplophysa heyangensis,NT
+sp891,Triplophysa hialmari,DD
+sp892,Triplophysa hsutschouensis,DD
+sp893,Triplophysa huanjiangensis,DD
+sp894,Triplophysa huapingensis,LC
+sp895,Triplophysa hutjertjuensis,VU
+sp896,Triplophysa incipiens,DD
+sp897,Triplophysa intermedia,LC
+sp898,Triplophysa jianchuanensis,VU
+sp899,Triplophysa jiarongensis,DD
+sp900,Triplophysa kaznakowi,DD
+sp901,Triplophysa labiata,LC
+sp902,Triplophysa lacustris,EN
+sp903,Triplophysa langpingensis,DD
+sp904,Triplophysa laterimaculata,DD
+sp905,Triplophysa laticeps,DD
+sp906,Triplophysa leptosoma,LC
+sp907,Triplophysa lihuensis,LC
+sp908,Triplophysa lingyunensis,VU
+sp909,Triplophysa lixianensis,DD
+sp910,Triplophysa longianguis,LC
+sp911,Triplophysa longibarbata,DD
+sp912,Triplophysa longipectoralis,DD
+sp913,Triplophysa longliensis,DD
+sp914,Triplophysa luochengensis,DD
+sp915,Triplophysa macrocephala,DD
+sp916,Triplophysa macromaculata,VU
+sp917,Triplophysa macrophthalma,DD
+sp918,Triplophysa markehenensis,DD
+sp919,Triplophysa microphthalma,DD
+sp920,Triplophysa microphysa,DD
+sp921,Triplophysa microps,DD
+sp922,Triplophysa minuta,DD
+sp923,Triplophysa moquensis,DD
+sp924,Triplophysa nandanensis,DD
+sp925,Triplophysa nanpanjiangensis,VU
+sp926,Triplophysa nasalis,DD
+sp927,Triplophysa nasobarbatula,DD
+sp928,Triplophysa ninglangensis,DD
+sp929,Triplophysa nujiangensa,LC
+sp930,Triplophysa obscura,DD
+sp931,Triplophysa obtusirostra,DD
+sp932,Triplophysa orientalis,LC
+sp933,Triplophysa papillosolabiata,DD
+sp934,Triplophysa pappenheimi,VU
+sp935,Triplophysa parvus,EN
+sp936,Triplophysa polyfasciata,DD
+sp937,Triplophysa posterodorsalus,DD
+sp938,Triplophysa pseudoscleroptera,DD
+sp939,Triplophysa pseudostenura,DD
+sp940,Triplophysa qilianensis,DD
+sp941,Triplophysa qiubeiensis,VU
+sp942,Triplophysa robusta,LC
+sp943,Triplophysa rosa,VU
+sp944,Triplophysa sanduensis,DD
+sp945,Triplophysa scapanognatha,DD
+sp946,Triplophysa scleroptera,LC
+sp947,Triplophysa sellaefer,LC
+sp948,Triplophysa shaanxiensis,NT
+sp949,Triplophysa shilinensis,VU
+sp950,Triplophysa shiyangensis,DD
+sp951,Triplophysa siluroides,VU
+sp952,Triplophysa stenura,LC
+sp953,Triplophysa stewarti,LC
+sp954,Triplophysa stoliczkai,LC
+sp955,Triplophysa strauchii,DD
+sp956,Triplophysa tanggulaensis,DD
+sp957,Triplophysa tenuicauda,DD
+sp958,Triplophysa tenuis,DD
+sp959,Triplophysa tianeensis,VU
+sp960,Triplophysa tianlinensis,DD
+sp961,Triplophysa tianxingensis,DD
+sp962,Triplophysa tibetana,LC
+sp963,Triplophysa turpanensis,LC
+sp964,Triplophysa venusta,NT
+sp965,Triplophysa waisihani,DD
+sp966,Triplophysa wuweiensis,DD
+sp967,Triplophysa xiangshuingensis,DD
+sp968,Triplophysa xiangxiensis,VU
+sp969,Triplophysa xichangensis,NT
+sp970,Triplophysa xichouensis,NT
+sp971,Triplophysa xingshanensis,LC
+sp972,Triplophysa xiqiensis,DD
+sp973,Triplophysa yajiangensis,DD
+sp974,Triplophysa yaopeizhii,DD
+sp975,Triplophysa yarkandensis,VU
+sp976,Triplophysa yunnanensis,VU
+sp977,Triplophysa zamegacephala,DD
+sp978,Triplophysa zhaoi,DD
+sp979,Triplophysa zhenfengensis,DD
+sp980,Troglonectes acridorsalis,DD
+sp981,Troglonectes barbatus,DD
+sp982,Troglonectes daqikongensis,DD
+sp983,Troglonectes elongatus,DD
+sp984,Troglonectes furcocaudalis,VU
+sp985,Troglonectes macrolepis,LC
+sp986,Troglonectes microphthalmus,DD
+sp987,Troglonectes translucens,VU
+sp988,Yunnanilus altus,DD
+sp989,Yunnanilus analis,EN
+sp990,Yunnanilus bailianensis,DD
+sp991,Yunnanilus bajiangensis,VU
+sp992,Yunnanilus beipanjiangensis,VU
+sp993,Yunnanilus caohaiensis,DD
+sp994,Yunnanilus chuanheensis,DD
+sp995,Yunnanilus chui,CR
+sp996,Yunnanilus discoloris,CR
+sp997,Yunnanilus elakatis,EN
+sp998,Yunnanilus forkicaudalis,VU
+sp999,Yunnanilus ganheensis,VU
+sp1000,Yunnanilus jinxiensis,DD
+sp1001,Yunnanilus jiuchiensis,DD
+sp1002,Yunnanilus longibarbatus,DD
+sp1003,Yunnanilus longibulla,NT
+sp1004,Yunnanilus longidorsalis,VU
+sp1005,Yunnanilus macrogaster,VU
+sp1006,Yunnanilus macrositanus,VU
+sp1007,Yunnanilus macrolepis,DD
+sp1008,Yunnanilus nanpanjiangensis,VU
+sp1009,Yunnanilus niger,VU
+sp1010,Yunnanilus nigromaculatus,EN
+sp1011,Yunnanilus niulanensis,VU
+sp1012,Yunnanilus obtusirostris,VU
+sp1013,Yunnanilus pachycephalus,VU
+sp1014,Yunnanilus paludosus,VU
+sp1015,Yunnanilus parvus,VU
+sp1016,Yunnanilus pleurotaenia,VU
+sp1017,Yunnanilus pulcherrimus,DD
+sp1018,Yunnanilus qujinensis,VU
+sp1019,Yunnanilus retrodorsalis,DD
+sp1020,Yunnanilus sichuanensis,DD
+sp1021,Yunnanilus spanisbripes,VU
+sp1022,Yunnanilus tigerivinus,DD
+sp1023,Yunnanilus yangzonghaiensis,CR
+sp1024,Acantopsis dialuzona,LC
+sp1025,Aperioptus gracilis,LC
+sp1026,Bibarba bibarba,DD
+sp1027,Bibarba parvoculus,DD
+sp1028,Bibarba wenliuensis,DD
+sp1029,Cobitis arenae,DD
+sp1030,Cobitis australis,DD
+sp1031,Cobitis baishagensis,DD
+sp1032,Cobitis brachysoma,DD
+sp1033,Cobitis brevipinna,DD
+sp1034,Cobitis choii,LC
+sp1035,Cobitis crassicauda,DD
+sp1036,Cobitis dolichorhynchus,LC
+sp1037,Cobitis fasciola,DD
+sp1038,Cobitis fimbriata,DD
+sp1039,Cobitis gracilis,DD
+sp1040,Cobitis hereromacula,DD
+sp1041,Cobitis laterimaculata,DD
+sp1042,Cobitis lebedevi,LC
+sp1043,Cobitis leptosoma,DD
+sp1044,Cobitis longibarba,DD
+sp1045,Cobitis lutheri,LC
+sp1046,Cobitis macrostigma,LC
+sp1047,Cobitis melanoleuca,LC
+sp1048,Cobitis microcephala,LC
+sp1049,Cobitis multimaculata,LC
+sp1050,Cobitis nigrolinea,DD
+sp1051,Cobitis obtusirostra,DD
+sp1052,Cobitis oxycephala,DD
+sp1053,Cobitis qujiangensis,DD
+sp1054,Cobitis rara,LC
+sp1055,Cobitis sibirica,LC
+sp1056,Cobitis sinensis,LC
+sp1057,Cobitis stenocauda,DD
+sp1058,Cobitis taenia,LC
+sp1059,Cobitis wumingensis,DD
+sp1060,Cobitis xinjiangensis,DD
+sp1061,Cobitis xui,DD
+sp1062,Cobitis zhejiangensis,LC
+sp1063,Lepidocephalichthys berdmorei,LC
+sp1064,Lepidocephalichthys birmanicus,LC
+sp1065,Lepidocephalichthys hasselti,LC
+sp1066,Misgurnus anguillicaudatus,LC
+sp1067,Misgurnus mizolepis,LC
+sp1068,Misgurnus mohoity,LC
+sp1069,Paralepidocephalus yui,EN
+sp1070,Paralepidocephalus translucens,DD
+sp1071,Paralepidocephalus guishanensis,DD
+sp1072,Paramisgurnus dabryanus,LC
+sp1073,Protocobitis polylepis,VU
+sp1074,Protocobitis anteroventris,DD
+sp1075,Protocobitis typhlops,VU
+sp1076,Ambastaia nigrolineata,DD
+sp1077,Botia histrionica,LC
+sp1078,Botia rostrata,LC
+sp1079,Leptobotia bellacauda,DD
+sp1080,Leptobotia brachycephala,DD
+sp1081,Leptobotia compressicauda,DD
+sp1082,Leptobotia citrauratea,LC
+sp1083,Leptobotia elongata,EN
+sp1084,Leptobotia flavolineata,CR
+sp1085,Leptobotia guilinensis,LC
+sp1086,Leptobotia hanshuiensis,LC
+sp1087,Leptobotia hengyangensis,VU
+sp1088,Leptobotia micra,DD
+sp1089,Leptobotia microphthalma,VU
+sp1090,Leptobotia orientalis,NT
+sp1091,Leptobotia pellegrini,LC
+sp1092,Leptobotia posterodorsalis,DD
+sp1093,Leptobotia punctata,DD
+sp1094,Leptobotia rubrilabris,VU
+sp1095,Leptobotia taeniops,VU
+sp1096,Leptobotia tchangi,DD
+sp1097,Leptobotia tientainensis,DD
+sp1098,Parabotia banarescui,LC
+sp1099,Parabotia bimaculata,LC
+sp1100,Parabotia brevirostris,DD
+sp1101,Parabotia fasciata,LC
+sp1102,Parabotia kiangsiensis,DD
+sp1103,Parabotia lijiangensis,DD
+sp1104,Parabotia maculosa,LC
+sp1105,Parabotia mantschurica,DD
+sp1106,Parabotia parva,DD
+sp1107,Sinibotia lani,DD
+sp1108,Sinibotia longiventralis,DD
+sp1109,Sinibotia pulchra,DD
+sp1110,Sinibotia reevesae,DD
+sp1111,Sinibotia robusta,DD
+sp1112,Sinibotia superciliaris,VU
+sp1113,Sinibotia zebra,DD
+sp1114,Syncrossus beauforti,NT
+sp1115,Syncrossus berdmorei,NT
+sp1116,Syncrossus lucasbahi,NT
+sp1117,Balitora brucei,NT
+sp1118,Balitora burmanica,LC
+sp1119,Balitora elongata,VU
+sp1120,Balitora kwangsiensis,LC
+sp1121,Balitora lancangjiangensis,LC
+sp1122,Balitora longibarbatus,VU
+sp1123,Balitora ludongensis,DD
+sp1124,Balitora meridionalis,DD
+sp1125,Balitora nantingensis,DD
+sp1126,Balitora tchangi,LC
+sp1127,Balitoropsis vulgaris,DD
+sp1128,Balitoropsis yunnanensis,VU
+sp1129,Hemimyzon formosanus,DD
+sp1130,Hemimyzon macroptera,VU
+sp1131,Hemimyzon megalopseos,VU
+sp1132,Hemimyzon nujiangensis,NT
+sp1133,Hemimyzon pengi,VU
+sp1134,Hemimyzon pumilicorpora,DD
+sp1135,Hemimyzon sheni,DD
+sp1136,Hemimyzon taitungensis,EN
+sp1137,Hemimyzon yaotanensis,VU
+sp1138,Hemimyzon yingjiangensis,VU
+sp1139,Jinshaia abbreviata,NT
+sp1140,Jinshaia sinensis,LC
+sp1141,Jinshaia niulanjiangensis,DD
+sp1142,Lepturichthys dolichopterus,DD
+sp1143,Lepturichthys fimbriata,DD
+sp1144,Metahomaloptera longicauda,DD
+sp1145,Metahomaloptera omeiensis,DD
+sp1146,Sinogastromyzon chapaensis,DD
+sp1147,Sinogastromyzon daduheensis,DD
+sp1148,Sinogastromyzon dezeensis,DD
+sp1149,Sinogastromyzon hsiashiensis,DD
+sp1150,Sinogastromyzon lixianjiangensis,DD
+sp1151,Sinogastromyzon macrostoma,DD
+sp1152,Sinogastromyzon multiocellum,DD
+sp1153,Sinogastromyzon nanpanjiangensis,LC
+sp1154,Sinogastromyzon nantaiensis,VU
+sp1155,Sinogastromyzon puliensis,VU
+sp1156,Sinogastromyzon sichangensis,LC
+sp1157,Sinogastromyzon szechuanensis,LC
+sp1158,Sinogastromyzon tonkinensis,DD
+sp1159,Sinogastromyzon wui,DD
+sp1160,Beaufortia cyclica,DD
+sp1161,Beaufortia huangguoshuensis,DD
+sp1162,Beaufortia intermedia,DD
+sp1163,Beaufortia kweichowensis,DD
+sp1164,Beaufortia leveretti,DD
+sp1165,Beaufortia liui,NT
+sp1166,Beaufortia niulanensis,DD
+sp1167,Beaufortia pingi,DD
+sp1168,Beaufortia polylepis,DD
+sp1169,Beaufortia szechuanensis,NT
+sp1170,Beaufortia yunnanensis,DD
+sp1171,Beaufortia zebroidus,DD
+sp1172,Erromyzon damingshanensis,DD
+sp1173,Erromyzon kalotaenia,DD
+sp1174,Erromyzon sinensis,DD
+sp1175,Erromyzon yangi,DD
+sp1176,Formosania chenyiyui,DD
+sp1177,Formosania davidi,DD
+sp1178,Formosania fascicauda,DD
+sp1179,Formosania fasciolata,DD
+sp1180,Formosania galericula,DD
+sp1181,Formosania lacustre,DD
+sp1182,Formosania paucisquama,DD
+sp1183,Formosania stigmata,DD
+sp1184,Formosania tinkhami,DD
+sp1185,Liniparhomaloptera disparis,DD
+sp1186,Liniparhomaloptera macrostoma,DD
+sp1187,Liniparhomaloptera obtusirostris,DD
+sp1188,Liniparhomaloptera qiongzhongensis,DD
+sp1189,Paraprotomyzon bamaensis,VU
+sp1190,Paraprotomyzon lungkowensis,DD
+sp1191,Paraprotomyzon multifasciatus,DD
+sp1192,Paraprotomyzon niulanjiangensis,DD
+sp1193,Plesiomyzon baotingensis,DD
+sp1194,Pseudogastromyzon changtingensis,VU
+sp1195,Pseudogastromyzon cheni,DD
+sp1196,Pseudogastromyzon daon,DD
+sp1197,Pseudogastromyzon fangi,DD
+sp1198,Pseudogastromyzon fasciatus,DD
+sp1199,Pseudogastromyzon laticeps,VU
+sp1200,Pseudogastromyzon lianjiangensis,DD
+sp1201,Pseudogastromyzon meihuashanensis,DD
+sp1202,Pseudogastromyzon myersi,DD
+sp1203,Pseudogastromyzon peristictus,DD
+sp1204,Pseudogastromyzon tungpeiensis,DD
+sp1205,Vanmanenia caldwelli,DD
+sp1206,Vanmanenia gymnetrus,DD
+sp1207,Vanmanenia hainanensis,DD
+sp1208,Vanmanenia homalocephala,DD
+sp1209,Vanmanenia intermedia,LC
+sp1210,Vanmanenia lineata,DD
+sp1211,Vanmanenia maculata,DD
+sp1212,Vanmanenia microcephala,DD
+sp1213,Vanmanenia pingchowensis,LC
+sp1214,Vanmanenia polylepis,LC
+sp1215,Vanmanenia pseudostriata,DD
+sp1216,Vanmanenia serrilineata,DD
+sp1217,Vanmanenia stenosoma,DD
+sp1218,Vanmanenia striata,DD
+sp1219,Vanmanenia tetraloba,DD
+sp1220,Vanmanenia xinyiensis,DD
+sp1221,Yaoshania(Protomyzon) pachychilus,VU
+sp1222,Akysis brachybarbatus,EN
+sp1223,Pseudobagarius sinensis,NT
+sp1224,Amblyceps yunnanensis,DD
+sp1225,Liobagrus aequilabris,LC
+sp1226,Liobagrus anguillicauda,LC
+sp1227,Liobagrus chenghaiensis,CR
+sp1228,Liobagrus formosanus,VU
+sp1229,Liobagrus kingi,EN
+sp1230,Liobagrus marginatoides,DD
+sp1231,Liobagrus marginatus,VU
+sp1232,Liobagrus nantoensis,DD
+sp1233,Liobagrus nigricauda,CR
+sp1234,Liobagrus styani,CR
+sp1235,Xiurenbagrus dorsalis,DD
+sp1236,Xiurenbagrus gigas,DD
+sp1237,Xiurenbagrus xiurenensis,LC
+sp1238,Bagroides hirsutus,DD
+sp1239,Hemibagrus guttatus,LC
+sp1240,Hemibagrus hainanensis,DD
+sp1241,Hemibagrus macropterus,LC
+sp1242,Hemibagrus pluriradiatus,LC
+sp1243,Hemibagrus wyckioides,LC
+sp1244,Tachysurus adiposalis,NT
+sp1245,Tachysurus albomarginatus,LC
+sp1246,Tachysurus analis,DD
+sp1247,Tachysurus argentivittatus,DD
+sp1248,Tachysurus brachyrhabdion,DD
+sp1249,Tachysurus brashnikowi,DD
+sp1250,Tachysurus brevianalis,DD
+sp1251,Tachysurus brevicaudatus,DD
+sp1252,Tachysurus crassilabris,LC
+sp1253,Tachysurus crassirostris,DD
+sp1254,Tachysurus dumerili,NT
+sp1255,Tachysurus emarginatus,DD
+sp1256,Tachysurus eupogon,LC
+sp1257,Tachysurus fui,DD
+sp1258,Tachysurus sinensis,LC
+sp1259,Tachysurus gracilis,DD
+sp1260,Tachysurus herzensteini,LC
+sp1261,Tachysurus intermedius,LC
+sp1262,Tachysurus kyphus,DD
+sp1263,Tachysurus longibarbus,CR
+sp1264,Tachysurus medianalis,CR
+sp1265,Tachysurus mica,LC
+sp1266,Tachysurus nitidus,LC
+sp1267,Tachysurus omeihensis,DD
+sp1268,Tachysurus ondon,LC
+sp1269,Tachysurus pratti,VU
+sp1270,Tachysurus taeniatus,DD
+sp1271,Tachysurus taiwanensis,DD
+sp1272,Tachysurus tenuifurcatus,NT
+sp1273,Tachysurus tenuis,DD
+sp1274,Tachysurus torosilabris,DD
+sp1275,Tachysurus trilineatus,NT
+sp1276,Tachysurus truncatus,DD
+sp1277,Tachysurus ussuriensis,LC
+sp1278,Tachysurus vachellii,LC
+sp1279,Tachysurus virgatus,DD
+sp1280,Clarias fuscus,LC
+sp1281,Cranoglanis bouderius,EN 
+sp1282,Cranoglanis henrici,DD
+sp1283,Cranoglanis multiradiatus,EN
+sp1284,Heteropneustes fossilis,LC
+sp1285,Pangasius djambal,CR
+sp1286,Pangasius krempfi,VU
+sp1287,Pangasius sanitwongsei,CR
+sp1288,Pangasianodon gigas,DD
+sp1289,Pseudolais micronemus,CR
+sp1290,Clupisoma longianalis,NT
+sp1291,Clupisoma sinense,NT
+sp1292,Clupisoma yunnanensis,NT
+sp1293,Hemisilurus mekongensis,LC
+sp1294,Hemisilurus heterorhynchus,DD
+sp1295,Micronema cheveyi,NT
+sp1296,Phalacronotus apogon,NT
+sp1297,Pterocryptis anomala,LC
+sp1298,Pterocryptis cochinchinensis,NT
+sp1299,Silurus asotus,LC
+sp1300,Silurus duanensis,DD
+sp1301,Silurus grahami,EN
+sp1302,Silurus lanzhouensis,EN
+sp1303,Silurus longibarbatus,DD
+sp1304,Silurus mento,CR 
+sp1305,Silurus meridionalis,LC
+sp1306,Silurus microdorsalis,CR
+sp1307,Silurus soldatovi,VU
+sp1308,Wallago attu,NT
+sp1309,Bagarius bagarius,VU
+sp1310,Bagarius rutilus,NT
+sp1311,Bagarius yarrelli,VU
+sp1312,Chimarrichthys davidi,EN
+sp1313,Chimarrichthys kishinouyei,EN
+sp1314,Chimarrichthys longibarbatus,VU
+sp1315,Chimarrichthys longus,DD
+sp1316,Creteuchiloglanis brachypterus,NT
+sp1317,Creteuchiloglanis gongshanensis,EN
+sp1318,Creteuchiloglanis kamengensis,DD
+sp1319,Creteuchiloglanis longipectoralis,NT
+sp1320,Creteuchiloglanis macropterus,NT
+sp1321,Exostoma dulongensis,DD
+sp1322,Exostoma ericinum,DD
+sp1323,Exostoma gaoligongense,DD
+sp1324,Exostoma labiatum,NT
+sp1325,Exostoma tibetanum,DD
+sp1326,Gagata dolichonema,VU
+sp1327,Glaridoglanis andersonii,VU
+sp1328,Glyptosternon maculatum,EN
+sp1329,Glyptothorax annandalei,LC
+sp1330,Glyptothorax burmanicus,NT
+sp1331,Glyptothorax conirostris,DD
+sp1332,Glyptothorax deqinensis,EN 
+sp1333,Glyptothorax dorsalis,LC
+sp1334,Glyptothorax fokiensis,LC
+sp1335,Glyptothorax fucatus,NT
+sp1336,Glyptothorax fuscus,LC
+sp1337,Glyptothorax gracilis,DD
+sp1338,Glyptothorax granosus,NT
+sp1339,Glyptothorax hainanensis,DD
+sp1340,Glyptothorax honghensis,DD
+sp1341,Glyptothorax interspinalus,NT
+sp1342,Glyptothorax lampris,LC
+sp1343,Glyptothorax lanceatus,DD
+sp1344,Glyptothorax laosensis,LC
+sp1345,Glyptothorax longicauda,LC
+sp1346,Glyptothorax longinema,LC
+sp1347,Glyptothorax longjiangensis,LC
+sp1348,Glyptothorax macromaculatus,LC
+sp1349,Glyptothorax minimaculatus,NT
+sp1350,Glyptothorax ngapang,LC
+sp1351,Glyptothorax obliquimaculatus,DD
+sp1352,Glyptothorax obscurus,DD
+sp1353,Glyptothorax pallozonus,DD
+sp1354,Glyptothorax quadriocellatus,DD
+sp1355,Glyptothorax sinensis,LC
+sp1356,Glyptothorax trilineatus,LC
+sp1357,Glyptothorax zanaensis,DD
+sp1358,Glyptothorax zhujiangensis,DD
+sp1359,Oreoglanis delacouri,DD
+sp1360,Oreoglanis immaculatus,NT
+sp1361,Oreoglanis insignis,NT
+sp1362,Oreoglanis jingdongensis,NT
+sp1363,Oreoglanis macropterus,NT
+sp1364,Oreoglanis setiger,NT
+sp1365,Pareuchiloglanis abbreviatus,NT
+sp1366,Pareuchiloglanis anteanalis,NT
+sp1367,Pareuchiloglanis arcuata,DD
+sp1368,Pareuchiloglanis chui,NT
+sp1369,Pareuchiloglanis feae,DD
+sp1370,Pareuchiloglanis gracilicaudata,EN
+sp1371,Pareuchiloglanis hupingshanensis,DD
+sp1372,Pareuchiloglanis longicauda,EN
+sp1373,Pareuchiloglanis macrotrema,EN
+sp1374,Pareuchiloglanis myzostoma,EN
+sp1375,Pareuchiloglanis posteranalis,DD
+sp1376,Pareuchiloglanis prolixdorsalis,NT
+sp1377,Pareuchiloglanis robustus,NT
+sp1378,Pareuchiloglanis salicesbarba,DD
+sp1379,Pareuchiloglanis sichuanensis,NT
+sp1380,Pareuchiloglanis sinensis,EN 
+sp1381,Pareuchiloglanis tianquanensis,DD
+sp1382,Pseudecheneis brachyurus,DD
+sp1383,Pseudecheneis gracilis,DD
+sp1384,Pseudecheneis immaculata,VU 
+sp1385,Pseudecheneis longipectoralis,EN
+sp1386,Pseudecheneis paucipunctata,DD
+sp1387,Pseudecheneis paviei,DD
+sp1388,Pseudecheneis sirenica,NT
+sp1389,Pseudecheneis stenura,NT
+sp1390,Pseudecheneis sulcatoides,NT
+sp1391,Pseudecheneis tchangi,DD
+sp1392,Pseudexostoma brachysoma,EN
+sp1393,Pseudexostoma yunnanense,VU
+sp1394,Esox lucius,LC
+sp1395,Esox reichertii,LC
+sp1396,Hypomesus nipponensis,LC
+sp1397,Hypomesus olidus,LC
+sp1398,Osmerus mordax,LC
+sp1399,Plecoglossus altivelis,EN
+sp1400,Hemisalanx brachyrostralis,VU
+sp1401,Leucosoma chinensis,DD
+sp1402,Neosalanx argentea,DD
+sp1403,Neosalanx oligodontis,DD
+sp1404,Neosalanx tangkahkeii,DD
+sp1405,Protosalanx chinensis,DD
+sp1406,Salanx prognathus,CR
+sp1407,Brachymystax lenok,EN
+sp1408,Brachymystax tsinlingensis,VU
+sp1409,Brachymystax tumensis,DD
+sp1410,Coregonus chadary,NT
+sp1411,Coregonus ussuriensis,VU
+sp1412,Hucho bleekeri,CR
+sp1413,Hucho ishikawae,DD
+sp1414,Hucho taimen,EN
+sp1415,Oncorhynchus formosanus,CR
+sp1416,Oncorhynchus gorbuscha,NT
+sp1417,Oncorhynchus keta,LC
+sp1418,Oncorhynchus masou,LC
+sp1419,Salvelinus leucomaensis,LC
+sp1420,Salvelinus malma,LC
+sp1421,Stenodus leucichthys,RE
+sp1422,Thymallus arcticus,VU
+sp1423,Thymallus grubii,VU
+sp1424,Thymallus tugarinae,DD
+sp1425,Cottus czerskii,LC
+sp1426,Cottus dzungaricus,VU
+sp1427,Cottus hangiongensis,LC
+sp1428,Cottus poecilopus,LC
+sp1429,Cottus pollux,DD
+sp1430,Mesocottus haitej,DD
+sp1431,Trachidermus fasciatus,EN
+sp1432,Lota lota,LC
+sp1433,Eleginus gracilis,LC
+sp1434,Hyporhamphus intermedius,LC
+sp1435,Hyporhamphus limbatus,LC
+sp1436,Hyporhamphus sajori,LC
+sp1437,Oryzias curvinotus,LC
+sp1438,Oryzias latipes,LC
+sp1439,Oryzias minutillus,NT
+sp1440,Oryzias pectoralis,LC
+sp1441,Oryzias sinensis,NT
+sp1442,Strongylura strongylura,DD
+sp1443,Xenentodon canciloides,DD
+sp1444,Gasterosteus aculeatus,LC
+sp1445,Pungitius pungitius,LC
+sp1446,Pungitius sinensis,LC
+sp1447,Monopterus albus,LC
+sp1448,Monopterus cuchia,DD
+sp1449,Macrognathus aculeatus,LC
+sp1450,Mastacembelus armatus,LC
+sp1451,Mastacembelus oatesii,NT
+sp1452,Mastacembelus strigiventus,NT
+sp1453,Mastacembelus triolobus,NT
+sp1454,Mastacembelus undulatus,NT
+sp1455,Sinobdella sinensis,LC
+sp1456,Coreoperca herzi,NT
+sp1457,Coreoperca liui,DD
+sp1458,Coreoperca loona,NT
+sp1459,Coreoperca whiteheadi,NT
+sp1460,Siniperca chuatsi,LC
+sp1461,Siniperca fortis,NT
+sp1462,Siniperca kneri,LC
+sp1463,Siniperca liuzhouensis,DD
+sp1464,Siniperca obscura,NT
+sp1465,Siniperca roulei,NT
+sp1466,Siniperca scherzeri,LC
+sp1467,Siniperca undulata,NT
+sp1468,Siniperca vietnamensis,DD
+sp1469,Perca fluviatilis,LC
+sp1470,Perca schrenkii,VU
+sp1471,Dario dayingensis,DD
+sp1472,Rhyacichthys aspro,DD
+sp1473,Microdous chalmersi,DD
+sp1474,Micropercops cinctus,LC
+sp1475,Micropercops dabryi,LC
+sp1476,Micropercops swinhonis,LC
+sp1477,Neodontobutis hainanensis,VU
+sp1478,Odontobutis haifengensis,VU
+sp1479,Odontobutis potamophila,LC
+sp1480,Odontobutis sinensis,LC
+sp1481,Odontobutis yaluensis,VU
+sp1482,Perccottus glenii,LC
+sp1483,Sineleotris saccharae,LC
+sp1484,Bostrychus sinensis,LC
+sp1485,Eleotris acanthopoma,LC
+sp1486,Eleotris fasciatus,DD
+sp1487,Eleotris fusca,LC
+sp1488,Eleotris melanosoma,LC
+sp1489,Eleotris oxycephala,LC
+sp1490,Hypseleotris cyprinoides,LC
+sp1491,Acanthogobius flavimanus,LC
+sp1492,Acanthogobius hasta,LC
+sp1493,Awaous melanocephalus,LC
+sp1494,Awaous ocellaris,LC
+sp1495,Eugnathogobius siamensis,LC
+sp1496,Hemigobius hoevenii,LC
+sp1497,Glossogobius aureus,LC
+sp1498,Glossogobius giuris,LC
+sp1499,Glossogobius olivaceus,LC
+sp1500,Gobiopterus macrolepis,VU
+sp1501,Gymnogobius castaneus,DD
+sp1502,Gymnogobius taranetzi,DD
+sp1503,Gymnogobius transversefasciatus,EN
+sp1504,Gymnogobius urotaenia,DD
+sp1505,Gymnogobius zhoushanensis,DD
+sp1506,Mugilogobius myxodermus,DD
+sp1507,Rhinogobius aporus,DD
+sp1508,Rhinogobius brunneus,DD
+sp1509,Rhinogobius candidianus,LC
+sp1510,Rhinogobius changjiangensis,LC
+sp1511,Rhinogobius changtinensis,DD
+sp1512,Rhinogobius cheni,DD
+sp1513,Rhinogobius clarki,DD
+sp1514,Rhinogobius cliffordpopei,LC
+sp1515,Rhinogobius coccinella,DD
+sp1516,Rhinogobius davidi,DD
+sp1517,Rhinogobius delicatus,EN
+sp1518,Rhinogobius duospilus,DD
+sp1519,Rhinogobius filamentosus,DD
+sp1520,Rhinogobius formosanus,LC
+sp1521,Rhinogobius fukushimai,DD
+sp1522,Rhinogobius genanematus,DD
+sp1523,Rhinogobius gigas,LC
+sp1524,Rhinogobius giurinus,LC
+sp1525,Rhinogobius henchuenensis,NT
+sp1526,Rhinogobius henryi,DD
+sp1527,Rhinogobius honghensis,DD
+sp1528,Rhinogobius immaculatus,DD
+sp1529,Rhinogobius lanyuensis,NT
+sp1530,Rhinogobius leavelli,LC
+sp1531,Rhinogobius lentiginis,LC
+sp1532,Rhinogobius lindbergi,DD
+sp1533,Rhinogobius linshuiensis,DD
+sp1534,Rhinogobius liui,DD
+sp1535,Rhinogobius longyanensis,DD
+sp1536,Rhinogobius lungwoensis,DD
+sp1537,Rhinogobius maculafasciatus,DD
+sp1538,Rhinogobius maculagenys,DD
+sp1539,Rhinogobius maculicervix,DD
+sp1540,Rhinogobius maxillivirgatus,DD
+sp1541,Rhinogobius multimaculatus,DD
+sp1542,Rhinogobius nagoyae,DD
+sp1543,Rhinogobius nandujiangensis,DD
+sp1544,Rhinogobius nanophyllum,DD
+sp1545,Rhinogobius nantaiensis,NT
+sp1546,Rhinogobius niger,DD
+sp1547,Rhinogobius parvus,VU
+sp1548,Rhinogobius ponkouensis,DD
+sp1549,Rhinogobius reticulatus,DD
+sp1550,Rhinogobius rubrolineatus,DD
+sp1551,Rhinogobius rubromaculatus,DD
+sp1552,Rhinogobius sagittus?,DD
+sp1553,Rhinogobius sangenloensis?,DD
+sp1554,Rhinogobius shennongensis,VU
+sp1555,Rhinogobius szechuanensis,VU
+sp1556,Rhinogobius wangchuangensis,DD
+sp1557,Rhinogobius wangi,DD
+sp1558,Rhinogobius wuyanlingensis,DD
+sp1559,Rhinogobius wuyiensis,DD
+sp1560,Rhinogobius xianshuiensis,DD
+sp1561,Rhinogobius yaoshanensis,DD
+sp1562,Rhinogobius zhoui,VU
+sp1563,Schismatogobius ampluvinculus,NT
+sp1564,Schismatogobius roxasi,NT
+sp1565,Sicyopterus japonica,LC
+sp1566,Sicyopus zosterophorus,LC
+sp1567,Stenogobius genivittatus,LC
+sp1568,Stenogobius ophthalmoporus,LC
+sp1569,Stiphodon atropurpureus,NT
+sp1570,Stiphodon imperiorientis,DD
+sp1571,Stiphodon multisquamus,DD
+sp1572,Stiphodon percnopterygionus,NT
+sp1573,Tridentiger trigonocephalus,DD
+sp1574,Wuhanlinigobius polylepis,LC
+sp1575,Anabas testudineus,LC
+sp1576,Macropodus chinensis,NT
+sp1577,Macropodus opercularis,NT
+sp1578,Channa argus,LC
+sp1579,Channa asiatica,LC
+sp1580,Channa gachua,LC
+sp1581,Channa lucius,NT
+sp1582,Channa maculata,LC
+sp1583,Channa nox,DD
+sp1584,Channa shingon,DD
+sp1585,Channa striata,NT
+sp1586,Pao leiurus,NT
+sp1587,Takifugu coronoidus,DD
+sp1588,Takifugu obscurus,LC
+sp1589,Takifugu ocellatus,LC
+sp1590,Takifugu orbimaculatus,LC
+sp1591,Cynoglossus trigrammus,LC
